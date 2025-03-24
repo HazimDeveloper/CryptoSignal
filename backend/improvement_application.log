@@ -1,0 +1,6 @@
+2025-03-24 16:11:57,120 - INFO - Starting to apply improvements to trading system
+2025-03-24 16:12:02,381 - INFO - Loaded model from model_cache.pkl
+2025-03-24 16:12:02,386 - INFO - Improved model weights to favor positive returns
+2025-03-24 16:12:02,430 - INFO - Saved model to model_cache.pkl
+2025-03-24 16:12:02,431 - INFO - Created improvement tracking file
+2025-03-24 16:12:02,431 - INFO - Successfully applied improvements to trading system

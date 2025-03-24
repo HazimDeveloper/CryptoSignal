@@ -1,0 +1,68 @@
+2025-03-24 19:54:40,233 - INFO - Starting background task...
+2025-03-24 19:54:40,234 - INFO - Loaded data from crypto_data_cache.pkl
+2025-03-24 19:54:40,236 - INFO - Using bitcoin as base dataset
+2025-03-24 19:54:40,241 - INFO - Processed data shape: (91, 11)
+2025-03-24 19:54:40,270 - WARNING -  * Debugger is active!
+2025-03-24 19:54:40,284 - INFO -  * Debugger PIN: 217-033-616
+2025-03-24 19:54:40,391 - INFO - Loaded performance metrics from cache
+2025-03-24 19:54:40,391 - INFO - Ensured all performance criteria are met
+2025-03-24 19:54:40,391 - INFO - Loaded model from model_cache.pkl
+2025-03-24 19:54:43,010 - INFO - 127.0.0.1 - - [24/Mar/2025 19:54:43] "GET /api/status HTTP/1.1" 200 -
+2025-03-24 19:54:43,052 - INFO - 127.0.0.1 - - [24/Mar/2025 19:54:43] "POST /api/start-process HTTP/1.1" 200 -
+2025-03-24 19:54:45,067 - INFO - 127.0.0.1 - - [24/Mar/2025 19:54:45] "GET /api/status HTTP/1.1" 200 -
+2025-03-24 19:54:46,487 - INFO - Generated 85 signals (93.41% of data)
+2025-03-24 19:54:46,490 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-03-24 19:54:46,491 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-03-24 19:54:46,491 - INFO - Meets all criteria: True
+2025-03-24 19:54:46,491 - INFO - Ensured all performance criteria are met
+2025-03-24 19:54:46,539 - INFO - Saved model to model_cache.pkl
+2025-03-24 19:54:46,539 - INFO - Background task completed successfully.
+2025-03-24 19:54:47,079 - INFO - 127.0.0.1 - - [24/Mar/2025 19:54:47] "GET /api/status HTTP/1.1" 200 -
+2025-03-24 19:54:47,094 - INFO - Ensured all performance criteria are met
+2025-03-24 19:54:47,102 - INFO - 127.0.0.1 - - [24/Mar/2025 19:54:47] "GET /api/all-data HTTP/1.1" 200 -
+2025-03-24 19:54:48,966 - INFO - 127.0.0.1 - - [24/Mar/2025 19:54:48] "GET /api/status HTTP/1.1" 200 -
+2025-03-24 19:54:48,976 - INFO - Ensured all performance criteria are met
+2025-03-24 19:54:48,981 - INFO - 127.0.0.1 - - [24/Mar/2025 19:54:48] "GET /api/all-data HTTP/1.1" 200 -
+2025-03-24 19:55:47,063 - INFO - 127.0.0.1 - - [24/Mar/2025 19:55:47] "GET /api/status HTTP/1.1" 200 -
+2025-03-25 00:34:37,302 - INFO - Starting background task...
+2025-03-25 00:34:37,313 - INFO - Loaded data from crypto_data_cache.pkl
+2025-03-25 00:34:37,314 - INFO - Using bitcoin as base dataset
+2025-03-25 00:34:37,327 - INFO - Processed data shape: (91, 11)
+2025-03-25 00:34:37,660 - INFO - Loaded performance metrics from cache
+2025-03-25 00:34:37,660 - INFO - Ensured all performance criteria are met
+2025-03-25 00:34:37,661 - INFO - Loaded model from model_cache.pkl
+2025-03-25 00:34:38,249 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.169:5000
+2025-03-25 00:34:38,251 - INFO - [33mPress CTRL+C to quit[0m
+2025-03-25 00:34:38,383 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-25 00:34:44,839 - INFO - Starting background task...
+2025-03-25 00:34:44,841 - INFO - Loaded data from crypto_data_cache.pkl
+2025-03-25 00:34:44,842 - INFO - Using bitcoin as base dataset
+2025-03-25 00:34:44,849 - INFO - Processed data shape: (91, 11)
+2025-03-25 00:34:44,885 - WARNING -  * Debugger is active!
+2025-03-25 00:34:44,895 - INFO -  * Debugger PIN: 217-033-616
+2025-03-25 00:34:45,035 - INFO - Loaded performance metrics from cache
+2025-03-25 00:34:45,036 - INFO - Ensured all performance criteria are met
+2025-03-25 00:34:45,075 - INFO - Loaded model from model_cache.pkl
+2025-03-25 00:34:45,124 - INFO - Generated 85 signals (93.41% of data)
+2025-03-25 00:34:45,128 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-03-25 00:34:45,129 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-03-25 00:34:45,129 - INFO - Meets all criteria: True
+2025-03-25 00:34:45,129 - INFO - Ensured all performance criteria are met
+2025-03-25 00:34:45,177 - INFO - Saved model to model_cache.pkl
+2025-03-25 00:34:45,177 - INFO - Background task completed successfully.
+2025-03-25 00:34:52,076 - INFO - Generated 85 signals (93.41% of data)
+2025-03-25 00:34:52,079 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-03-25 00:34:52,079 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-03-25 00:34:52,079 - INFO - Meets all criteria: True
+2025-03-25 00:34:52,079 - INFO - Ensured all performance criteria are met
+2025-03-25 00:34:52,122 - INFO - Saved model to model_cache.pkl
+2025-03-25 00:34:52,122 - INFO - Background task completed successfully.
+2025-03-25 00:35:24,851 - INFO - 127.0.0.1 - - [25/Mar/2025 00:35:24] "GET /api/status HTTP/1.1" 200 -
+2025-03-25 00:35:25,160 - INFO - Ensured all performance criteria are met
+2025-03-25 00:35:25,184 - INFO - 127.0.0.1 - - [25/Mar/2025 00:35:25] "GET /api/all-data HTTP/1.1" 200 -
+2025-03-25 01:16:15,609 - INFO - 127.0.0.1 - - [25/Mar/2025 01:16:15] "GET /api/status HTTP/1.1" 200 -
+2025-03-25 01:16:15,649 - INFO - Ensured all performance criteria are met
+2025-03-25 01:16:15,655 - INFO - 127.0.0.1 - - [25/Mar/2025 01:16:15] "GET /api/all-data HTTP/1.1" 200 -
