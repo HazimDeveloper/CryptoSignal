@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:fl_chart/fl_chart.dart';
 import 'package:intl/intl.dart';
+import 'package:trading_dashboard_mobile/widgets/crrypto_app_bar.dart';
 
 import '../providers/trading_provider.dart';
 import '../models/price_data.dart';
@@ -35,17 +36,21 @@ class _ChartScreenState extends State<ChartScreen> with SingleTickerProviderStat
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Price Chart'),
-        centerTitle: false,
-        bottom: TabBar(
-          controller: _tabController,
-          tabs: const [
-            Tab(text: 'Price Chart'),
-            Tab(text: 'Market Regimes'),
-          ],
-        ),
+      appBar: CryptoAppBar(
+      title: 'Price Chart',
+      showGradient: true,
+      bottom: TabBar(
+        labelColor: Colors.white,
+        controller: _tabController,
+        tabs: const [
+          Tab(text: 'Price Chart'),
+          Tab(text: 'Market Regimes'),
+        ],
+        indicatorColor: Colors.blue,
+        indicatorWeight: 3,
+        indicatorSize: TabBarIndicatorSize.label,
       ),
+    ) ,
       body: Consumer<TradingProvider>(
         builder: (context, provider, child) {
           if (provider.isLoading && provider.priceData.isEmpty) {

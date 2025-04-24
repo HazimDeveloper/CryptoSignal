@@ -2,6 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'package:trading_dashboard_mobile/widgets/crrypto_app_bar.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:package_info_plus/package_info_plus.dart';
 import 'dart:io' show Platform;
@@ -93,10 +94,12 @@ class _SettingsScreenState extends State<SettingsScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Settings'),
-        centerTitle: false,
-      ),
+      appBar: CryptoAppBar(
+      title: 'Settings',
+      showGradient: false, // Solid color instead of gradient
+      elevation: 4, // Add some elevation
+      centerTitle: true, // Center the title
+    ),
       body: SingleChildScrollView(
         padding: const EdgeInsets.all(16.0),
         child: Column(
@@ -173,8 +176,8 @@ class _SettingsScreenState extends State<SettingsScreen> {
             Center(
               child: ElevatedButton.icon(
                 onPressed: _saveSettings,
-                icon: const Icon(Icons.save),
-                label: const Text('Save Settings'),
+                icon: const Icon(Icons.save,color: Colors.white,),
+                label: const Text('Save Settings',style: TextStyle(color: Colors.white),),
                 style: ElevatedButton.styleFrom(
                   padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 12),
                 ),
@@ -221,8 +224,8 @@ class _SettingsScreenState extends State<SettingsScreen> {
   Widget _buildTestConnectionButton() {
     return ElevatedButton.icon(
       onPressed: _testConnection,
-      icon: const Icon(Icons.network_check),
-      label: const Text('Test Connection'),
+      icon: const Icon(Icons.network_check,color: Colors.white,),
+      label: const Text('Test Connection',style: TextStyle(color: Colors.white),),
       style: ElevatedButton.styleFrom(
         backgroundColor: Colors.blue[700],
       ),
@@ -330,12 +333,12 @@ class _SettingsScreenState extends State<SettingsScreen> {
                 _buildLinkButton(
                   'Documentation',
                   Icons.menu_book,
-                  'https://github.com/yourusername/trading-model/wiki',
+                  'https://github.com/HazimDeveloper/CryptoSignal',
                 ),
                 _buildLinkButton(
                   'Source Code',
                   Icons.code,
-                  'https://github.com/yourusername/trading-model',
+                  'https://github.com/HazimDeveloper/CryptoSignal',
                 ),
               ],
             ),
@@ -361,8 +364,8 @@ class _SettingsScreenState extends State<SettingsScreen> {
   Widget _buildLinkButton(String label, IconData icon, String url) {
     return ElevatedButton.icon(
       onPressed: () => _launchUrl(url),
-      icon: Icon(icon),
-      label: Text(label),
+      icon: Icon(icon,color: Colors.white,),
+      label: Text(label,style: TextStyle(color: Colors.white),),
       style: ElevatedButton.styleFrom(
         backgroundColor: Colors.blue[800],
       ),
@@ -382,7 +385,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
           ),
           const SizedBox(height: 8),
           Text(
-            '© ${DateTime.now().year} Your Company',
+            '© ${DateTime.now().year} HazimDev \nAll rights reserved',
             style: TextStyle(
               color: Colors.grey[400],
               fontSize: 12,

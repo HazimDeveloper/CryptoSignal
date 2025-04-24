@@ -1,0 +1,709 @@
+2025-04-11 06:19:30,598 - __main__ - WARNING - Model or associated data not found, creating simple model for testing
+2025-04-11 06:19:30,598 - __main__ - INFO - Creating a simple CNN-LSTM model for testing
+2025-04-11 06:19:30,866 - absl - WARNING - You are saving your model as an HDF5 file via `model.save()` or `keras.saving.save_model(model)`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')` or `keras.saving.save_model(model, 'my_model.keras')`. 
+2025-04-11 06:19:30,918 - __main__ - INFO - Simple model and metadata created successfully
+2025-04-11 06:19:30,962 - hmmlearn.base - WARNING - Fitting a model with 14 free scalar parameters with only 1 data points will result in a degenerate solution.
+2025-04-11 06:19:30,963 - __main__ - ERROR - Error detecting market regimes: n_samples=1 should be >= n_clusters=3.
+2025-04-11 06:19:30,964 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 06:19:30,964 - __main__ - ERROR - Error generating signals: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-04-11 06:19:30,964 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 06:19:30,964 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 06:19:30,965 - __main__ - INFO - Running background task
+2025-04-11 06:19:30,995 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 06:19:31,591 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 06:19:31,969 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 06:19:31,988 - hmmlearn.base - WARNING - Fitting a model with 14 free scalar parameters with only 1 data points will result in a degenerate solution.
+2025-04-11 06:19:31,989 - __main__ - ERROR - Error detecting market regimes: n_samples=1 should be >= n_clusters=3.
+2025-04-11 06:19:31,990 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 06:19:31,990 - __main__ - ERROR - Error generating signals: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-04-11 06:19:37,643 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 06:19:37,646 - __main__ - INFO - Model loaded successfully
+2025-04-11 06:19:37,647 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 06:19:37,647 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 06:19:37,665 - hmmlearn.base - WARNING - Fitting a model with 14 free scalar parameters with only 1 data points will result in a degenerate solution.
+2025-04-11 06:19:37,666 - __main__ - ERROR - Error detecting market regimes: n_samples=1 should be >= n_clusters=3.
+2025-04-11 06:19:37,667 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 06:19:37,667 - __main__ - ERROR - Error generating signals: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-04-11 06:19:37,667 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 06:19:37,667 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 06:19:37,668 - __main__ - INFO - Running background task
+2025-04-11 06:19:37,677 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 06:19:37,967 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 06:19:38,127 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 06:19:38,248 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 06:19:38,248 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 06:19:38,388 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 06:19:38,407 - hmmlearn.base - WARNING - Fitting a model with 14 free scalar parameters with only 1 data points will result in a degenerate solution.
+2025-04-11 06:19:38,407 - __main__ - ERROR - Error detecting market regimes: n_samples=1 should be >= n_clusters=3.
+2025-04-11 06:19:38,408 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 06:19:38,409 - __main__ - ERROR - Error generating signals: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-04-11 07:05:54,573 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 07:06:07,030 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 07:06:38,042 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 07:06:38,053 - __main__ - INFO - Model loaded successfully
+2025-04-11 07:06:38,054 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 07:06:38,056 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 07:06:38,131 - hmmlearn.base - WARNING - Fitting a model with 14 free scalar parameters with only 1 data points will result in a degenerate solution.
+2025-04-11 07:06:38,133 - __main__ - ERROR - Error detecting market regimes: n_samples=1 should be >= n_clusters=3.
+2025-04-11 07:06:38,134 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 07:06:38,135 - __main__ - ERROR - Error generating signals: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-04-11 07:06:38,136 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 07:06:38,136 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 07:06:38,138 - __main__ - INFO - Running background task
+2025-04-11 07:06:38,161 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 07:06:38,639 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 07:06:38,897 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 07:06:39,443 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 07:06:39,488 - hmmlearn.base - WARNING - Fitting a model with 14 free scalar parameters with only 1 data points will result in a degenerate solution.
+2025-04-11 07:06:39,490 - __main__ - ERROR - Error detecting market regimes: n_samples=1 should be >= n_clusters=3.
+2025-04-11 07:06:39,492 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 07:06:39,492 - __main__ - ERROR - Error generating signals: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-04-11 07:06:40,815 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 07:06:40,818 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 07:19:32,012 - __main__ - INFO - Running background task
+2025-04-11 07:19:34,141 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 07:19:34,648 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 07:19:35,169 - hmmlearn.base - WARNING - Fitting a model with 14 free scalar parameters with only 1 data points will result in a degenerate solution.
+2025-04-11 07:19:35,177 - __main__ - ERROR - Error detecting market regimes: n_samples=1 should be >= n_clusters=3.
+2025-04-11 07:19:35,181 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 07:19:35,182 - __main__ - ERROR - Error generating signals: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-04-11 08:05:54,559 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 08:05:57,081 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 08:06:06,079 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 08:06:06,083 - __main__ - INFO - Model loaded successfully
+2025-04-11 08:06:06,084 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 08:06:06,085 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 08:06:06,119 - hmmlearn.base - WARNING - Fitting a model with 14 free scalar parameters with only 1 data points will result in a degenerate solution.
+2025-04-11 08:06:06,120 - __main__ - ERROR - Error detecting market regimes: n_samples=1 should be >= n_clusters=3.
+2025-04-11 08:06:06,120 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 08:06:06,120 - __main__ - ERROR - Error generating signals: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-04-11 08:06:06,122 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 08:06:06,122 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 08:06:06,123 - __main__ - INFO - Running background task
+2025-04-11 08:06:06,131 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 08:06:06,416 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 08:06:06,694 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 08:06:06,694 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 08:06:07,802 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 08:06:08,166 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 08:06:08,182 - hmmlearn.base - WARNING - Fitting a model with 14 free scalar parameters with only 1 data points will result in a degenerate solution.
+2025-04-11 08:06:08,182 - __main__ - ERROR - Error detecting market regimes: n_samples=1 should be >= n_clusters=3.
+2025-04-11 08:06:08,183 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 08:06:08,184 - __main__ - ERROR - Error generating signals: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-04-11 08:19:35,189 - __main__ - INFO - Running background task
+2025-04-11 08:19:35,968 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 08:19:36,361 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 08:19:36,410 - hmmlearn.base - WARNING - Fitting a model with 14 free scalar parameters with only 1 data points will result in a degenerate solution.
+2025-04-11 08:19:36,412 - __main__ - ERROR - Error detecting market regimes: n_samples=1 should be >= n_clusters=3.
+2025-04-11 08:19:36,413 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 08:19:36,413 - __main__ - ERROR - Error generating signals: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-04-11 08:25:15,228 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\crypto_api_client.py', reloading
+2025-04-11 08:25:15,228 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\crypto_api_client.py', reloading
+2025-04-11 08:25:15,230 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\crypto_api_client.py', reloading
+2025-04-11 08:25:17,395 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 08:25:25,102 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 08:25:25,108 - __main__ - INFO - Model loaded successfully
+2025-04-11 08:25:25,108 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 08:25:25,109 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 08:25:25,135 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 08:25:25,141 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 08:25:25,141 - __main__ - ERROR - Error generating signals: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-04-11 08:25:25,142 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 08:25:25,142 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 08:25:25,144 - __main__ - INFO - Running background task
+2025-04-11 08:25:25,156 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 08:25:25,171 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 08:25:25,485 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 08:25:25,486 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 08:25:25,761 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 08:25:26,182 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 08:25:26,204 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 08:25:26,206 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 08:25:26,206 - __main__ - ERROR - Error generating signals: The truth value of a DataFrame is ambiguous. Use a.empty, a.bool(), a.item(), a.any() or a.all().
+2025-04-11 08:26:01,602 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\crypto_api_client.py', reloading
+2025-04-11 08:26:01,603 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\crypto_api_client.py', reloading
+2025-04-11 08:26:01,603 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\crypto_api_client.py', reloading
+2025-04-11 08:26:03,385 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 08:26:10,042 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 08:26:10,046 - __main__ - INFO - Model loaded successfully
+2025-04-11 08:26:10,047 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 08:26:10,048 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 08:26:10,070 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 08:26:10,072 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 08:26:10,074 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 08:26:10,074 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 08:26:10,074 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 08:26:10,075 - __main__ - INFO - Running background task
+2025-04-11 08:26:10,086 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 08:26:10,100 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 08:26:10,432 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 08:26:10,432 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 08:26:10,561 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 08:26:10,949 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 08:26:10,964 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 08:26:10,965 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 08:26:10,966 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 08:26:14,078 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\crypto_api_client.py', reloading
+2025-04-11 08:26:14,079 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\crypto_api_client.py', reloading
+2025-04-11 08:26:14,079 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\crypto_api_client.py', reloading
+2025-04-11 08:26:15,247 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 08:26:21,492 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 08:26:21,495 - __main__ - INFO - Model loaded successfully
+2025-04-11 08:26:21,495 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 08:26:21,496 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 08:26:21,515 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 08:26:21,516 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 08:26:21,517 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 08:26:21,517 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 08:26:21,517 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 08:26:21,519 - __main__ - INFO - Running background task
+2025-04-11 08:26:21,529 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 08:26:21,540 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 08:26:21,842 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 08:26:21,842 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 08:26:21,986 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 08:26:22,318 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 08:26:22,323 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 08:26:22,340 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 08:26:22,342 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 08:26:22,342 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 08:26:44,335 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 08:26:44,339 - __main__ - INFO - Model loaded successfully
+2025-04-11 08:26:44,339 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 08:26:44,340 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 08:26:44,357 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 08:26:44,359 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 08:26:44,359 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 08:26:44,359 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 08:26:44,360 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 08:26:44,360 - __main__ - INFO - Running background task
+2025-04-11 08:26:44,381 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 08:26:44,812 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 08:26:45,149 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 08:26:45,153 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 08:26:45,173 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 08:26:45,175 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 08:26:45,175 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 08:26:50,322 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 08:26:50,325 - __main__ - INFO - Model loaded successfully
+2025-04-11 08:26:50,326 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 08:26:50,326 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 08:26:50,343 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 08:26:50,344 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 08:26:50,345 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 08:26:50,345 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 08:26:50,345 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 08:26:50,346 - __main__ - INFO - Running background task
+2025-04-11 08:26:50,354 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 08:26:50,365 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 08:26:50,641 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 08:26:50,641 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 08:26:50,828 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 08:26:52,059 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 08:26:52,062 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 08:26:52,079 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 08:26:52,080 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 08:26:52,080 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 08:27:56,473 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\data_generator.py', reloading
+2025-04-11 08:27:56,473 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\data_generator.py', reloading
+2025-04-11 08:27:56,473 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\data_generator.py', reloading
+2025-04-11 08:27:58,115 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 08:28:04,435 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 08:28:04,438 - __main__ - INFO - Model loaded successfully
+2025-04-11 08:28:04,438 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 08:28:04,439 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 08:28:04,472 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 08:28:04,473 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 08:28:04,473 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 08:28:04,475 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 08:28:04,476 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 08:28:04,477 - __main__ - INFO - Running background task
+2025-04-11 08:28:04,490 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 08:28:04,509 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 08:28:04,797 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 08:28:04,798 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 08:28:05,257 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 08:28:05,645 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 08:28:05,649 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 08:28:05,669 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 08:28:05,671 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 08:28:05,671 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 09:05:54,738 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 09:05:56,587 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 09:06:03,381 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 09:06:03,385 - __main__ - INFO - Model loaded successfully
+2025-04-11 09:06:03,386 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 09:06:03,387 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 09:06:03,403 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 09:06:03,404 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 09:06:03,404 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 09:06:03,405 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 09:06:03,405 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 09:06:03,406 - __main__ - INFO - Running background task
+2025-04-11 09:06:03,416 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 09:06:03,429 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 09:06:03,698 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 09:06:03,698 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 09:06:05,051 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 09:06:05,452 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 09:06:05,457 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 09:06:05,471 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 09:06:05,472 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 09:06:05,472 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 09:26:45,176 - __main__ - INFO - Running background task
+2025-04-11 09:26:45,887 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 09:26:46,290 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 09:26:46,293 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 09:26:46,317 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 09:26:46,318 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 09:26:46,319 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 10:05:54,966 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 10:05:56,778 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 10:06:02,393 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 10:06:02,396 - __main__ - INFO - Model loaded successfully
+2025-04-11 10:06:02,396 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 10:06:02,397 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 10:06:02,412 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 10:06:02,413 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 10:06:02,413 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 10:06:02,413 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 10:06:02,413 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 10:06:02,414 - __main__ - INFO - Running background task
+2025-04-11 10:06:02,422 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 10:06:02,432 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 10:06:02,702 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 10:06:02,702 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 10:06:02,999 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 10:06:03,475 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 10:06:03,486 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 10:06:03,507 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 10:06:03,508 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 10:06:03,509 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 10:26:46,320 - __main__ - INFO - Running background task
+2025-04-11 10:26:47,907 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 10:26:48,525 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 10:26:48,533 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 10:26:48,559 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 10:26:48,560 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 10:26:48,560 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 11:05:55,234 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 11:05:55,940 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 11:06:01,242 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 11:06:01,245 - __main__ - INFO - Model loaded successfully
+2025-04-11 11:06:01,246 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 11:06:01,247 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 11:06:01,269 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 11:06:01,271 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 11:06:01,272 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 11:06:01,272 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 11:06:01,272 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 11:06:01,272 - __main__ - INFO - Running background task
+2025-04-11 11:06:01,282 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 11:06:01,294 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 11:06:01,559 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 11:06:01,559 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 11:06:02,847 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 11:06:03,188 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 11:06:03,201 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 11:06:03,229 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 11:06:03,230 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 11:06:03,231 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 11:26:48,562 - __main__ - INFO - Running background task
+2025-04-11 11:26:49,138 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 11:26:49,500 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 11:26:49,503 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 11:26:49,517 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 11:26:49,518 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 11:26:49,518 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 12:05:55,386 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 12:05:56,936 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 12:06:02,383 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 12:06:02,386 - __main__ - INFO - Model loaded successfully
+2025-04-11 12:06:02,386 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 12:06:02,387 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 12:06:02,404 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 12:06:02,406 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 12:06:02,406 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 12:06:02,406 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 12:06:02,406 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 12:06:02,407 - __main__ - INFO - Running background task
+2025-04-11 12:06:02,414 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 12:06:02,424 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 12:06:02,686 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 12:06:02,687 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 12:06:03,991 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 12:06:07,524 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 12:06:07,528 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 12:06:07,543 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 12:06:07,544 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 12:06:07,544 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 12:26:49,519 - __main__ - INFO - Running background task
+2025-04-11 12:26:51,081 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 12:26:51,470 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 12:26:51,475 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 12:26:51,489 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 12:26:51,490 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 12:26:51,490 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 13:05:55,638 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 13:05:56,515 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 13:06:01,797 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 13:06:01,801 - __main__ - INFO - Model loaded successfully
+2025-04-11 13:06:01,801 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 13:06:01,801 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 13:06:01,818 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 13:06:01,819 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 13:06:01,819 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 13:06:01,819 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 13:06:01,819 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 13:06:01,820 - __main__ - INFO - Running background task
+2025-04-11 13:06:01,827 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 13:06:01,838 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 13:06:02,105 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 13:06:02,106 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 13:06:03,462 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 13:06:03,895 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 13:06:03,907 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 13:06:03,935 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 13:06:03,936 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 13:06:03,937 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 13:26:51,491 - __main__ - INFO - Running background task
+2025-04-11 13:26:52,114 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 13:26:52,522 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 13:26:52,530 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 13:26:52,547 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 13:26:52,548 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 13:26:52,548 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 13:51:19,731 - werkzeug - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\synchronize.py', reloading
+2025-04-11 13:51:19,733 - werkzeug - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\multiprocessing\\queues.py', reloading
+2025-04-11 13:51:19,733 - werkzeug - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\concurrent\\futures\\process.py', reloading
+2025-04-11 13:51:19,791 - werkzeug - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\util.py', reloading
+2025-04-11 13:51:19,824 - werkzeug - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\ascii.py', reloading
+2025-04-11 13:51:19,824 - werkzeug - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\netrc.py', reloading
+2025-04-11 13:51:21,439 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 13:51:27,266 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 13:51:27,269 - __main__ - INFO - Model loaded successfully
+2025-04-11 13:51:27,269 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 13:51:27,271 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 13:51:27,287 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 13:51:27,288 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 13:51:27,288 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 13:51:27,289 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 13:51:27,289 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 13:51:27,290 - __main__ - INFO - Running background task
+2025-04-11 13:51:27,297 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 13:51:27,308 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 13:51:27,579 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 13:51:27,579 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 13:51:28,903 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 13:51:29,331 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 13:51:29,334 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 13:51:29,349 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 13:51:29,351 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 13:51:29,351 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 13:51:55,753 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 13:51:57,083 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 13:52:02,467 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 13:52:02,470 - __main__ - INFO - Model loaded successfully
+2025-04-11 13:52:02,470 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 13:52:02,471 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 13:52:02,489 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 13:52:02,491 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 13:52:02,491 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 13:52:02,491 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 13:52:02,491 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 13:52:02,492 - __main__ - INFO - Running background task
+2025-04-11 13:52:02,500 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 13:52:02,511 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 13:52:02,776 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 13:52:02,777 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 13:52:02,952 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 13:52:03,175 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 13:52:03,179 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 13:52:03,194 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 13:52:03,195 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 13:52:03,196 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 14:26:52,549 - __main__ - INFO - Running background task
+2025-04-11 14:26:56,136 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 14:26:56,438 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 14:26:56,445 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 14:26:56,462 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 14:26:56,463 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 14:26:56,463 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 14:49:56,024 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 14:49:56,943 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 14:50:02,585 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 14:50:02,587 - __main__ - INFO - Model loaded successfully
+2025-04-11 14:50:02,588 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 14:50:02,588 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 14:50:02,604 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 14:50:02,605 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 14:50:02,605 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 14:50:02,605 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 14:50:02,606 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 14:50:02,606 - __main__ - INFO - Running background task
+2025-04-11 14:50:02,615 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 14:50:02,625 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 14:50:02,893 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 14:50:02,893 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 14:50:04,189 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 14:50:05,579 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 14:50:05,584 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 14:50:05,598 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 14:50:05,601 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 14:50:05,601 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 15:26:56,464 - __main__ - INFO - Running background task
+2025-04-11 15:26:58,059 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 15:26:59,588 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 15:26:59,599 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 15:26:59,621 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 15:26:59,621 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 15:26:59,622 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 15:49:56,266 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 15:49:57,245 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 15:50:02,723 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 15:50:02,726 - __main__ - INFO - Model loaded successfully
+2025-04-11 15:50:02,726 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 15:50:02,728 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 15:50:02,744 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 15:50:02,746 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 15:50:02,746 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 15:50:02,746 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 15:50:02,747 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 15:50:02,749 - __main__ - INFO - Running background task
+2025-04-11 15:50:02,756 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 15:50:02,768 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 15:50:03,036 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 15:50:03,037 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 15:50:04,412 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 15:50:04,729 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 15:50:04,734 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 15:50:04,749 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 15:50:04,750 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 15:50:04,750 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 16:26:59,623 - __main__ - INFO - Running background task
+2025-04-11 16:27:01,193 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 16:27:01,587 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 16:27:01,590 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 16:27:01,603 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 16:27:01,604 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 16:27:01,604 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 16:49:56,506 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 16:49:57,304 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 16:50:02,806 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 16:50:02,809 - __main__ - INFO - Model loaded successfully
+2025-04-11 16:50:02,810 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 16:50:02,810 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 16:50:02,829 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 16:50:02,831 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 16:50:02,831 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 16:50:02,831 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 16:50:02,831 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 16:50:02,832 - __main__ - INFO - Running background task
+2025-04-11 16:50:02,840 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 16:50:02,851 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 16:50:03,120 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 16:50:03,120 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 16:50:03,376 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 16:50:03,716 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 16:50:03,720 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 16:50:03,734 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 16:50:03,734 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 16:50:03,735 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 17:27:01,606 - __main__ - INFO - Running background task
+2025-04-11 17:27:03,204 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 17:27:03,629 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 17:27:03,637 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 17:27:03,666 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 17:27:03,667 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 17:27:03,667 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 17:49:56,750 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 17:49:57,942 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 17:50:03,476 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 17:50:03,479 - __main__ - INFO - Model loaded successfully
+2025-04-11 17:50:03,480 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 17:50:03,480 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 17:50:03,497 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 17:50:03,498 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 17:50:03,498 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 17:50:03,498 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 17:50:03,498 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 17:50:03,499 - __main__ - INFO - Running background task
+2025-04-11 17:50:03,506 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 17:50:03,517 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 17:50:03,786 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 17:50:03,786 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 17:50:04,095 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 17:50:04,536 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 17:50:04,539 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 17:50:04,554 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 17:50:04,555 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 17:50:04,555 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 18:27:03,668 - __main__ - INFO - Running background task
+2025-04-11 18:27:05,300 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 18:27:06,693 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 18:27:06,697 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 18:27:06,711 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 18:27:06,712 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 18:27:06,712 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 18:49:56,954 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 18:49:58,469 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 18:50:03,969 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 18:50:03,972 - __main__ - INFO - Model loaded successfully
+2025-04-11 18:50:03,973 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 18:50:03,973 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 18:50:03,991 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 18:50:03,992 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 18:50:03,993 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 18:50:03,993 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 18:50:03,993 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 18:50:03,994 - __main__ - INFO - Running background task
+2025-04-11 18:50:04,001 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 18:50:04,015 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 18:50:04,284 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 18:50:04,284 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 18:50:05,573 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 18:50:06,965 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 18:50:06,970 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 18:50:06,988 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 18:50:06,989 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 18:50:06,989 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 19:27:06,713 - __main__ - INFO - Running background task
+2025-04-11 19:27:07,346 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 19:27:07,665 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 19:27:07,668 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 19:27:07,682 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 19:27:07,683 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 19:27:07,683 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 19:49:57,179 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 19:49:58,216 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 19:50:03,783 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 19:50:03,786 - __main__ - INFO - Model loaded successfully
+2025-04-11 19:50:03,786 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 19:50:03,787 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 19:50:03,804 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 19:50:03,805 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 19:50:03,805 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 19:50:03,805 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 19:50:03,805 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 19:50:03,806 - __main__ - INFO - Running background task
+2025-04-11 19:50:03,813 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 19:50:03,823 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 19:50:04,089 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 19:50:04,090 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 19:50:04,389 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 19:50:04,773 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 19:50:04,783 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 19:50:04,804 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 19:50:04,805 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 19:50:04,806 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 20:27:07,684 - __main__ - INFO - Running background task
+2025-04-11 20:27:09,307 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 20:27:09,731 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 20:27:09,742 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 20:27:09,762 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 20:27:09,763 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 20:27:09,763 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 20:49:57,435 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 20:49:58,206 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 20:50:03,664 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 20:50:03,667 - __main__ - INFO - Model loaded successfully
+2025-04-11 20:50:03,668 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 20:50:03,669 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 20:50:03,687 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 20:50:03,688 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 20:50:03,688 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 20:50:03,688 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 20:50:03,688 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 20:50:03,689 - __main__ - INFO - Running background task
+2025-04-11 20:50:03,697 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 20:50:03,707 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 20:50:03,975 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 20:50:03,975 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 20:50:04,297 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 20:50:04,602 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 20:50:04,614 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 20:50:04,631 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 20:50:04,632 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 20:50:04,632 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 21:27:09,764 - __main__ - INFO - Running background task
+2025-04-11 21:27:10,353 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 21:27:10,740 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 21:27:10,753 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 21:27:10,775 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 21:27:10,776 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 21:27:10,776 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 21:45:00,851 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2025 21:45:00] "[33mGET /api/status HTTP/1.1[0m" 404 -
+2025-04-11 21:45:00,936 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2025 21:45:00] "[33mPOST /api/start-process HTTP/1.1[0m" 404 -
+2025-04-11 21:45:03,004 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2025 21:45:03] "[33mGET /api/status HTTP/1.1[0m" 404 -
+2025-04-11 21:45:03,023 - werkzeug - INFO - 127.0.0.1 - - [11/Apr/2025 21:45:03] "[33mGET /api/all-data HTTP/1.1[0m" 404 -
+2025-04-11 21:49:57,675 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 21:49:58,805 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 21:50:05,573 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 21:50:05,576 - __main__ - INFO - Model loaded successfully
+2025-04-11 21:50:05,576 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 21:50:05,577 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 21:50:05,593 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 21:50:05,594 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 21:50:05,594 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 21:50:05,594 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 21:50:05,594 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 21:50:05,595 - __main__ - INFO - Running background task
+2025-04-11 21:50:05,604 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 21:50:05,913 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 21:50:06,203 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 21:50:06,204 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 21:50:07,454 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 21:50:08,277 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 21:50:08,281 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 21:50:08,297 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 21:50:08,298 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 21:50:08,299 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 21:52:23,376 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 21:52:23,377 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 21:52:23,377 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 21:52:23,378 - werkzeug - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-11 21:52:24,898 - werkzeug - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 21:52:37,668 - absl - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-04-11 21:52:37,677 - __main__ - INFO - Model loaded successfully
+2025-04-11 21:52:37,678 - __main__ - INFO - Model metadata loaded successfully
+2025-04-11 21:52:37,681 - __main__ - INFO - Scaler loaded successfully
+2025-04-11 21:52:37,753 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 21:52:37,756 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 21:52:37,756 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.
+2025-04-11 21:52:37,757 - __main__ - WARNING - Failed to generate initial signals
+2025-04-11 21:52:37,757 - __main__ - WARNING - Application initialization incomplete
+2025-04-11 21:52:37,759 - __main__ - INFO - Running background task
+2025-04-11 21:52:37,781 - werkzeug - WARNING -  * Debugger is active!
+2025-04-11 21:52:38,105 - werkzeug - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 21:52:38,261 - __main__ - WARNING - Coinbase API error: 503
+2025-04-11 21:52:38,752 - __main__ - INFO - Successfully fetched data from Binance
+2025-04-11 21:52:38,760 - __main__ - INFO - Fetched and saved 100 latest candles
+2025-04-11 21:52:38,776 - werkzeug - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 21:52:38,811 - __main__ - WARNING - Not enough data points (1) for proper regime detection. Using simplified approach.
+2025-04-11 21:52:38,811 - werkzeug - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 21:52:38,813 - __main__ - INFO - Latest data loaded successfully
+2025-04-11 21:52:38,814 - __main__ - WARNING - Not enough data points (1) for signal generation. Need at least 24.

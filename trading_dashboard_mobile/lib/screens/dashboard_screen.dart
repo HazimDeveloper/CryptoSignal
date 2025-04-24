@@ -3,12 +3,14 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:intl/intl.dart';
 import 'package:shimmer/shimmer.dart';
+import 'package:trading_dashboard_mobile/widgets/crrypto_app_bar.dart';
 
 import '../providers/trading_provider.dart';
 import '../widgets/metric_card.dart';
 import '../widgets/signal_distribution_widget.dart';
 import '../widgets/price_summary_widget.dart';
 import '../models/signal_data.dart';
+import '../widgets/chatbot_widget.dart'; 
 
 class DashboardScreen extends StatelessWidget {
   const DashboardScreen({Key? key}) : super(key: key);
@@ -16,10 +18,40 @@ class DashboardScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-        title: const Text('Trading Dashboard'),
-        centerTitle: false,
-      ),
+      appBar: CryptoAppBar(
+      title: 'Crypto Signal',
+      showGradient: true,
+      actions: [
+        // Live price ticker (optional)
+        Container(
+          margin: const EdgeInsets.symmetric(vertical: 8.0),
+          padding: const EdgeInsets.symmetric(horizontal: 12.0, vertical: 4.0),
+          decoration: BoxDecoration(
+            color: Colors.blue.withOpacity(0.15),
+            borderRadius: BorderRadius.circular(20),
+            border: Border.all(color: Colors.blue.withOpacity(0.3)),
+          ),
+          child: Row(
+            children: [
+              const Icon(Icons.currency_bitcoin, size: 16, color: Colors.amber),
+              const SizedBox(width: 4),
+              const Text(
+                'BTC/USDT',
+                style: TextStyle(fontSize: 14, fontWeight: FontWeight.bold),
+              ),
+              const SizedBox(width: 4),
+              const Icon(
+                Icons.arrow_upward,
+                size: 12,
+                color: Colors.green,
+              ),
+            ],
+          ),
+        ),
+        const SizedBox(width: 8),
+        
+      ],
+    ),
       body: Consumer<TradingProvider>(
         builder: (context, provider, child) {
           if (provider.isLoading && provider.priceData.isEmpty) {
@@ -245,16 +277,24 @@ class DashboardScreen extends StatelessWidget {
                 children: [
                   // Sharpe ratio card
                   MetricCard(
-                    title: 'Sharpe Ratio',
-                    value:
-                        performance?.sharpeRatio.toStringAsFixed(2) ?? '0.00',
-                    subvalue: 'Target: ≥ 1.8',
-                    icon: Icons.assessment,
-                    valueColor:
-                        performance != null && performance.meetsSharpeRatio
-                            ? Colors.green
-                            : Colors.red,
-                  ),
+  title: 'Sharpe Ratio',
+  value: performance?.sharpeRatio.toStringAsFixed(2) ?? '0.00',
+  subvalue: 'Target: ≥ 1.8',
+  icon: Icons.assessment,
+  valueColor: performance?.meetsSharpeRatio ?? false ? Colors.green : Colors.red,
+  // Add this onInfoPressed parameter and function
+  onInfoPressed: () {
+    // Navigate to chatbot with pre-filled question
+    Navigator.push(
+      context,
+      MaterialPageRoute(
+        builder: (context) => ChatbotScreen(
+          initialQuestion: 'What is Sharpe Ratio and why is it important?',
+        ),
+      ),
+    );
+  },
+),
 
                   // Max drawdown card
                   MetricCard(

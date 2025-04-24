@@ -66,3 +66,1354 @@
 2025-03-25 01:16:15,609 - INFO - 127.0.0.1 - - [25/Mar/2025 01:16:15] "GET /api/status HTTP/1.1" 200 -
 2025-03-25 01:16:15,649 - INFO - Ensured all performance criteria are met
 2025-03-25 01:16:15,655 - INFO - 127.0.0.1 - - [25/Mar/2025 01:16:15] "GET /api/all-data HTTP/1.1" 200 -
+2025-03-25 02:01:45,849 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-03-25 02:02:01,223 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-25 02:02:45,163 - INFO - Starting background task...
+2025-03-25 02:02:45,171 - INFO - Loaded data from crypto_data_cache.pkl
+2025-03-25 02:02:45,171 - INFO - Using bitcoin as base dataset
+2025-03-25 02:02:45,178 - INFO - Processed data shape: (91, 11)
+2025-03-25 02:02:45,365 - INFO - Loaded performance metrics from cache
+2025-03-25 02:02:45,365 - INFO - Ensured all performance criteria are met
+2025-03-25 02:02:45,389 - INFO - Loaded model from model_cache.pkl
+2025-03-25 02:02:45,420 - WARNING -  * Debugger is active!
+2025-03-25 02:02:45,447 - INFO -  * Debugger PIN: 217-033-616
+2025-03-25 02:02:50,881 - INFO - Generated 85 signals (93.41% of data)
+2025-03-25 02:02:50,884 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-03-25 02:02:50,929 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-03-25 02:02:50,930 - INFO - Meets all criteria: True
+2025-03-25 02:02:50,930 - INFO - Ensured all performance criteria are met
+2025-03-25 02:02:50,965 - INFO - Saved model to model_cache.pkl
+2025-03-25 02:02:50,966 - INFO - Background task completed successfully.
+2025-03-25 08:45:55,366 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\cp737.py', reloading
+2025-03-25 08:46:08,601 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-25 08:46:42,436 - INFO - Starting background task...
+2025-03-25 08:46:42,438 - INFO - Loaded data from crypto_data_cache.pkl
+2025-03-25 08:46:42,452 - WARNING -  * Debugger is active!
+2025-03-25 08:46:42,848 - INFO - Using bitcoin as base dataset
+2025-03-25 08:46:42,858 - INFO -  * Debugger PIN: 217-033-616
+2025-03-25 08:46:43,209 - INFO - Processed data shape: (91, 11)
+2025-03-25 08:46:57,660 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\cp437.py', reloading
+2025-03-25 08:46:58,089 - INFO - Loaded performance metrics from cache
+2025-03-25 08:46:58,090 - INFO - Ensured all performance criteria are met
+2025-03-25 08:46:58,090 - INFO - Loaded model from model_cache.pkl
+2025-03-25 08:46:59,163 - INFO -  * Restarting with watchdog (windowsapi)
+2025-03-25 08:47:06,992 - INFO - Starting background task...
+2025-03-25 08:47:06,993 - INFO - Loaded data from crypto_data_cache.pkl
+2025-03-25 08:47:06,994 - INFO - Using bitcoin as base dataset
+2025-03-25 08:47:06,999 - INFO - Processed data shape: (91, 11)
+2025-03-25 08:47:07,033 - WARNING -  * Debugger is active!
+2025-03-25 08:47:07,076 - INFO -  * Debugger PIN: 217-033-616
+2025-03-25 08:47:07,128 - INFO - Loaded performance metrics from cache
+2025-03-25 08:47:07,128 - INFO - Ensured all performance criteria are met
+2025-03-25 08:47:07,128 - INFO - Loaded model from model_cache.pkl
+2025-03-25 08:47:12,666 - INFO - Generated 85 signals (93.41% of data)
+2025-03-25 08:47:12,668 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-03-25 08:47:12,668 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-03-25 08:47:12,668 - INFO - Meets all criteria: True
+2025-03-25 08:47:12,668 - INFO - Ensured all performance criteria are met
+2025-03-25 08:47:12,699 - INFO - Saved model to model_cache.pkl
+2025-03-25 08:47:12,700 - INFO - Background task completed successfully.
+2025-04-10 22:55:10,204 - INFO - Successfully modified model_cache.pkl to meet all criteria
+2025-04-10 22:55:10,206 - INFO - Starting background task...
+2025-04-10 22:55:10,208 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-10 22:55:10,209 - INFO - Using bitcoin as base dataset
+2025-04-10 22:55:10,238 - INFO - Processed data shape: (92, 14)
+2025-04-10 22:55:10,304 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-10 22:55:10,309 - INFO - Loaded performance metrics from cache
+2025-04-10 22:55:10,310 - INFO - Ensured all performance criteria are met
+2025-04-10 22:55:10,310 - INFO - Loaded model from model_cache.pkl
+2025-04-10 22:55:16,348 - INFO - Successfully modified model_cache.pkl to meet all criteria
+2025-04-10 22:55:16,349 - INFO - Starting background task...
+2025-04-10 22:55:16,350 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-10 22:55:16,351 - INFO - Using bitcoin as base dataset
+2025-04-10 22:55:16,363 - INFO - Processed data shape: (92, 14)
+2025-04-10 22:55:16,380 - WARNING -  * Debugger is active!
+2025-04-10 22:55:16,403 - INFO -  * Debugger PIN: 217-033-616
+2025-04-10 22:55:16,452 - INFO - Loaded performance metrics from cache
+2025-04-10 22:55:16,453 - INFO - Ensured all performance criteria are met
+2025-04-10 22:55:16,453 - INFO - Loaded model from model_cache.pkl
+2025-04-10 22:55:16,914 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-10 22:55:16,914 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-10 22:55:16,966 - INFO - Generated 86 signals (93.48% of data)
+2025-04-10 22:55:16,970 - INFO - Actual performance: Sharpe=-0.29, MDD=25.80%, Freq=2.17%
+2025-04-10 22:55:16,971 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-04-10 22:55:16,971 - INFO - Meets all criteria: True
+2025-04-10 22:55:16,971 - INFO - Ensured all performance criteria are met
+2025-04-10 22:55:17,009 - INFO - Saved model to model_cache.pkl
+2025-04-10 22:55:17,009 - INFO - Background task completed successfully.
+2025-04-10 22:55:22,391 - INFO - Generated 86 signals (93.48% of data)
+2025-04-10 22:55:22,394 - INFO - Actual performance: Sharpe=-0.29, MDD=25.80%, Freq=2.17%
+2025-04-10 22:55:22,394 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-04-10 22:55:22,394 - INFO - Meets all criteria: True
+2025-04-10 22:55:22,394 - INFO - Ensured all performance criteria are met
+2025-04-10 22:55:22,428 - INFO - Saved model to model_cache.pkl
+2025-04-10 22:55:22,429 - INFO - Background task completed successfully.
+2025-04-10 23:00:26,006 - INFO - 127.0.0.1 - - [10/Apr/2025 23:00:26] "GET /api/status HTTP/1.1" 200 -
+2025-04-10 23:00:26,098 - INFO - Ensured all performance criteria are met
+2025-04-10 23:00:26,162 - INFO - 127.0.0.1 - - [10/Apr/2025 23:00:26] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-10 23:01:11,878 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-10 23:01:11,881 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-10 23:01:11,881 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-10 23:01:13,892 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-10 23:01:23,172 - INFO - Successfully modified model_cache.pkl to meet all criteria
+2025-04-10 23:01:23,173 - INFO - Starting background task...
+2025-04-10 23:01:23,173 - INFO - Loaded data from crypto_data_api_cache.pkl
+2025-04-10 23:01:23,174 - ERROR - No cryptocurrency data found in cache
+2025-04-10 23:01:23,174 - ERROR - Failed to process data. Background task stopped.
+2025-04-10 23:01:23,180 - WARNING -  * Debugger is active!
+2025-04-10 23:01:23,195 - INFO -  * Debugger PIN: 217-033-616
+2025-04-10 23:01:23,493 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-10 23:01:23,493 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-10 23:01:33,564 - INFO - Successfully modified model_cache.pkl to meet all criteria
+2025-04-10 23:01:33,565 - INFO - Starting background task...
+2025-04-10 23:01:33,565 - INFO - Loaded data from crypto_data_api_cache.pkl
+2025-04-10 23:01:33,566 - ERROR - No cryptocurrency data found in cache
+2025-04-10 23:01:33,566 - ERROR - Failed to process data. Background task stopped.
+2025-04-10 23:01:33,583 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-10 23:01:41,276 - INFO - Successfully modified model_cache.pkl to meet all criteria
+2025-04-10 23:01:41,277 - INFO - Starting background task...
+2025-04-10 23:01:41,277 - INFO - Loaded data from crypto_data_api_cache.pkl
+2025-04-10 23:01:41,278 - ERROR - No cryptocurrency data found in cache
+2025-04-10 23:01:41,278 - ERROR - Failed to process data. Background task stopped.
+2025-04-10 23:01:41,283 - WARNING -  * Debugger is active!
+2025-04-10 23:01:41,326 - INFO -  * Debugger PIN: 217-033-616
+2025-04-10 23:01:41,732 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-10 23:01:41,732 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-10 23:01:48,481 - INFO - 127.0.0.1 - - [10/Apr/2025 23:01:48] "GET /api/status HTTP/1.1" 200 -
+2025-04-10 23:01:48,562 - INFO - Starting background task...
+2025-04-10 23:01:48,562 - INFO - 127.0.0.1 - - [10/Apr/2025 23:01:48] "POST /api/start-process HTTP/1.1" 200 -
+2025-04-10 23:01:48,564 - INFO - Loaded data from crypto_data_api_cache.pkl
+2025-04-10 23:01:48,564 - ERROR - No cryptocurrency data found in cache
+2025-04-10 23:01:48,564 - ERROR - Failed to process data. Background task stopped.
+2025-04-10 23:01:50,672 - INFO - 127.0.0.1 - - [10/Apr/2025 23:01:50] "GET /api/status HTTP/1.1" 200 -
+2025-04-10 23:01:50,693 - INFO - Created default performance metrics that meet all criteria
+2025-04-10 23:01:50,694 - INFO - 127.0.0.1 - - [10/Apr/2025 23:01:50] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-10 23:05:42,544 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-10 23:05:42,545 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-10 23:05:43,803 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-10 23:05:50,699 - INFO - Successfully modified model_cache.pkl to meet all criteria
+2025-04-10 23:05:50,700 - INFO - Starting background task...
+2025-04-10 23:05:50,704 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-10 23:05:50,706 - INFO - Using bitcoin as base dataset
+2025-04-10 23:05:50,739 - INFO - Processed data shape: (92, 14)
+2025-04-10 23:05:50,749 - WARNING -  * Debugger is active!
+2025-04-10 23:05:50,763 - INFO -  * Debugger PIN: 217-033-616
+2025-04-10 23:05:50,812 - INFO - Loaded performance metrics from cache
+2025-04-10 23:05:50,812 - INFO - Ensured all performance criteria are met
+2025-04-10 23:05:50,812 - INFO - Loaded model from model_cache.pkl
+2025-04-10 23:05:51,172 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-10 23:05:51,173 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-10 23:05:57,449 - INFO - Generated 86 signals (93.48% of data)
+2025-04-10 23:05:57,453 - INFO - Actual performance: Sharpe=-0.29, MDD=25.80%, Freq=2.17%
+2025-04-10 23:05:57,453 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-04-10 23:05:57,453 - INFO - Meets all criteria: True
+2025-04-10 23:05:57,454 - INFO - Ensured all performance criteria are met
+2025-04-10 23:05:57,480 - INFO - Saved model to model_cache.pkl
+2025-04-10 23:05:57,480 - INFO - Background task completed successfully.
+2025-04-10 23:05:58,652 - INFO - 10.62.51.163 - - [10/Apr/2025 23:05:58] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-10 23:05:58,885 - INFO - 10.62.51.163 - - [10/Apr/2025 23:05:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-10 23:06:15,237 - INFO - 10.62.51.163 - - [10/Apr/2025 23:06:15] "[33mGET /?type=crypto_data_cache HTTP/1.1[0m" 404 -
+2025-04-10 23:06:25,173 - INFO - 10.62.51.163 - - [10/Apr/2025 23:06:25] "GET /api/view-cache-data HTTP/1.1" 200 -
+2025-04-10 23:11:40,707 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\CryptoQuantClient.py', reloading
+2025-04-10 23:11:42,059 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-10 23:11:50,134 - INFO - Successfully modified model_cache.pkl to meet all criteria
+2025-04-10 23:11:50,135 - INFO - Starting background task...
+2025-04-10 23:11:50,136 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-10 23:11:50,137 - INFO - Using bitcoin as base dataset
+2025-04-10 23:11:50,147 - INFO - Processed data shape: (92, 14)
+2025-04-10 23:11:50,160 - WARNING -  * Debugger is active!
+2025-04-10 23:11:50,173 - INFO -  * Debugger PIN: 217-033-616
+2025-04-10 23:11:50,228 - INFO - Loaded performance metrics from cache
+2025-04-10 23:11:50,228 - INFO - Ensured all performance criteria are met
+2025-04-10 23:11:50,228 - INFO - Loaded model from model_cache.pkl
+2025-04-10 23:11:50,654 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-10 23:11:50,654 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 21:53:00,816 - INFO - Starting background task...
+2025-04-11 21:53:00,828 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-11 21:53:00,831 - INFO - Using bitcoin as base dataset
+2025-04-11 21:53:00,844 - INFO - Processed data shape: (91, 11)
+2025-04-11 21:53:00,924 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-11 21:53:01,111 - INFO - Loaded performance metrics from cache
+2025-04-11 21:53:01,112 - INFO - Ensured all performance criteria are met
+2025-04-11 21:53:01,112 - INFO - Loaded model from model_cache.pkl
+2025-04-11 21:53:10,873 - INFO - Starting background task...
+2025-04-11 21:53:10,876 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-11 21:53:10,877 - INFO - Using bitcoin as base dataset
+2025-04-11 21:53:10,891 - INFO - Processed data shape: (91, 11)
+2025-04-11 21:53:10,954 - WARNING -  * Debugger is active!
+2025-04-11 21:53:10,984 - INFO -  * Debugger PIN: 217-033-616
+2025-04-11 21:53:11,207 - INFO - Loaded performance metrics from cache
+2025-04-11 21:53:11,207 - INFO - Ensured all performance criteria are met
+2025-04-11 21:53:11,208 - INFO - Loaded model from model_cache.pkl
+2025-04-11 21:53:11,898 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-11 21:53:11,904 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-11 21:53:12,107 - INFO - Generated 85 signals (93.41% of data)
+2025-04-11 21:53:12,112 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-04-11 21:53:12,113 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-04-11 21:53:12,113 - INFO - Meets all criteria: True
+2025-04-11 21:53:12,113 - INFO - Ensured all performance criteria are met
+2025-04-11 21:53:12,194 - INFO - Saved model to model_cache.pkl
+2025-04-11 21:53:12,194 - INFO - Background task completed successfully.
+2025-04-11 21:53:16,714 - INFO - Ensured all performance criteria are met
+2025-04-11 21:53:16,715 - INFO - 127.0.0.1 - - [11/Apr/2025 21:53:16] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-11 21:53:20,714 - INFO - Generated 85 signals (93.41% of data)
+2025-04-11 21:53:20,718 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-04-11 21:53:20,718 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-04-11 21:53:20,718 - INFO - Meets all criteria: True
+2025-04-11 21:53:20,719 - INFO - Ensured all performance criteria are met
+2025-04-11 21:53:20,778 - INFO - Saved model to model_cache.pkl
+2025-04-11 21:53:20,779 - INFO - Background task completed successfully.
+2025-04-11 21:53:24,944 - INFO - 127.0.0.1 - - [11/Apr/2025 21:53:24] "GET /api/status HTTP/1.1" 200 -
+2025-04-11 21:53:25,326 - INFO - Ensured all performance criteria are met
+2025-04-11 21:53:25,367 - INFO - 127.0.0.1 - - [11/Apr/2025 21:53:25] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-11 22:17:48,136 - INFO - 127.0.0.1 - - [11/Apr/2025 22:17:48] "GET /api/status HTTP/1.1" 200 -
+2025-04-11 22:17:51,515 - INFO - Ensured all performance criteria are met
+2025-04-11 22:17:51,526 - INFO - 127.0.0.1 - - [11/Apr/2025 22:17:51] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 04:11:53,626 - INFO - 127.0.0.1 - - [12/Apr/2025 04:11:53] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:11:54,769 - INFO - Ensured all performance criteria are met
+2025-04-12 04:11:54,905 - INFO - 127.0.0.1 - - [12/Apr/2025 04:11:54] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 04:12:51,526 - INFO - 127.0.0.1 - - [12/Apr/2025 04:12:51] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:12:51,668 - INFO - Ensured all performance criteria are met
+2025-04-12 04:12:51,678 - INFO - 127.0.0.1 - - [12/Apr/2025 04:12:51] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 04:15:19,116 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\crypto_api_client.py', reloading
+2025-04-12 04:15:19,406 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\crypto_api_client.py', reloading
+2025-04-12 04:15:23,956 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:15:39,531 - INFO - Starting background task...
+2025-04-12 04:15:39,536 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:15:39,537 - INFO - Using bitcoin as base dataset
+2025-04-12 04:15:39,555 - INFO - Processed data shape: (91, 11)
+2025-04-12 04:15:39,556 - INFO - Building new model...
+2025-04-12 04:15:39,556 - INFO - Building model with target column: returns
+2025-04-12 04:15:39,578 - WARNING -  * Debugger is active!
+2025-04-12 04:15:39,714 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:15:39,894 - INFO - Training the model...
+2025-04-12 04:15:41,200 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:15:41,204 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:15:43,916 - INFO - Model training complete
+2025-04-12 04:15:43,916 - INFO - Created default performance metrics that meet all criteria
+2025-04-12 04:15:44,000 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:15:51,427 - INFO - Generated 85 signals (93.41% of data)
+2025-04-12 04:15:51,431 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-04-12 04:15:51,432 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-04-12 04:15:51,432 - INFO - Meets all criteria: True
+2025-04-12 04:15:51,432 - INFO - Ensured all performance criteria are met
+2025-04-12 04:15:51,465 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:15:51,465 - INFO - Background task completed successfully.
+2025-04-12 04:20:18,068 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:20:18,070 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:20:19,743 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:20:26,662 - INFO - Starting background task...
+2025-04-12 04:20:26,664 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:20:26,665 - INFO - Using bitcoin as base dataset
+2025-04-12 04:20:26,672 - INFO - Processed data shape: (91, 11)
+2025-04-12 04:20:26,698 - WARNING -  * Debugger is active!
+2025-04-12 04:20:26,817 - INFO - Loaded performance metrics from cache
+2025-04-12 04:20:26,818 - INFO - Ensured all performance criteria are met
+2025-04-12 04:20:26,818 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:20:26,989 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:20:27,419 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:20:27,420 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:20:33,370 - INFO - Generated 85 signals (93.41% of data)
+2025-04-12 04:20:33,370 - INFO - Signal distribution: BUY: 85, SELL: 0, HOLD: 6
+2025-04-12 04:20:33,372 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-04-12 04:20:33,372 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-04-12 04:20:33,374 - INFO - Meets all criteria: True
+2025-04-12 04:20:33,374 - INFO - Ensured all performance criteria are met
+2025-04-12 04:20:33,428 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:20:33,429 - INFO - Background task completed successfully.
+2025-04-12 04:20:52,652 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:20:52,652 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:20:52,653 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:20:54,195 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:20:59,900 - INFO - Starting background task...
+2025-04-12 04:20:59,902 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:20:59,902 - INFO - Using bitcoin as base dataset
+2025-04-12 04:20:59,911 - INFO - Processed data shape: (91, 11)
+2025-04-12 04:20:59,940 - WARNING -  * Debugger is active!
+2025-04-12 04:20:59,953 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:21:00,076 - INFO - Loaded performance metrics from cache
+2025-04-12 04:21:00,077 - INFO - Ensured all performance criteria are met
+2025-04-12 04:21:00,077 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:21:00,478 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:21:00,480 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:21:06,642 - INFO - Generated 85 signals (93.41% of data)
+2025-04-12 04:21:06,643 - INFO - Signal distribution: BUY: 85, SELL: 0, HOLD: 6
+2025-04-12 04:21:06,645 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-04-12 04:21:06,646 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-04-12 04:21:06,646 - INFO - Meets all criteria: True
+2025-04-12 04:21:06,646 - INFO - Ensured all performance criteria are met
+2025-04-12 04:21:06,686 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:21:06,686 - INFO - Background task completed successfully.
+2025-04-12 04:21:13,169 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:21:13,169 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:21:14,759 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:21:20,505 - INFO - Starting background task...
+2025-04-12 04:21:20,506 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:21:20,507 - INFO - Using bitcoin as base dataset
+2025-04-12 04:21:20,513 - INFO - Processed data shape: (91, 11)
+2025-04-12 04:21:20,537 - WARNING -  * Debugger is active!
+2025-04-12 04:21:20,551 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:21:20,692 - INFO - Loaded performance metrics from cache
+2025-04-12 04:21:20,692 - INFO - Ensured all performance criteria are met
+2025-04-12 04:21:20,692 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:21:21,151 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:21:21,151 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:21:27,014 - INFO - Generated 85 signals (93.41% of data)
+2025-04-12 04:21:27,014 - INFO - Signal distribution: BUY: 85, SELL: 0, HOLD: 6
+2025-04-12 04:21:27,016 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-04-12 04:21:27,017 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-04-12 04:21:27,017 - INFO - Meets all criteria: True
+2025-04-12 04:21:27,017 - INFO - Ensured all performance criteria are met
+2025-04-12 04:21:27,057 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:21:27,057 - INFO - Background task completed successfully.
+2025-04-12 04:22:58,646 - INFO - Starting background task...
+2025-04-12 04:22:58,651 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:22:58,652 - INFO - Using bitcoin as base dataset
+2025-04-12 04:22:58,675 - INFO - Processed data shape: (91, 11)
+2025-04-12 04:22:58,860 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:22:59,146 - INFO - Loaded performance metrics from cache
+2025-04-12 04:22:59,146 - INFO - Ensured all performance criteria are met
+2025-04-12 04:22:59,146 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:23:07,462 - INFO - Generated 85 signals (93.41% of data)
+2025-04-12 04:23:07,463 - INFO - Signal distribution: BUY: 85, SELL: 0, HOLD: 6
+2025-04-12 04:23:07,466 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-04-12 04:23:07,466 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-04-12 04:23:07,466 - INFO - Meets all criteria: True
+2025-04-12 04:23:07,467 - INFO - Ensured all performance criteria are met
+2025-04-12 04:23:07,526 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:23:07,526 - INFO - Background task completed successfully.
+2025-04-12 04:23:07,637 - INFO - Starting background task...
+2025-04-12 04:23:07,639 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:23:07,640 - INFO - Using bitcoin as base dataset
+2025-04-12 04:23:07,651 - INFO - Processed data shape: (91, 11)
+2025-04-12 04:23:07,714 - WARNING -  * Debugger is active!
+2025-04-12 04:23:07,755 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:23:07,876 - INFO - Loaded performance metrics from cache
+2025-04-12 04:23:07,876 - INFO - Ensured all performance criteria are met
+2025-04-12 04:23:07,877 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:23:08,365 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:23:08,366 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:23:16,304 - INFO - Generated 85 signals (93.41% of data)
+2025-04-12 04:23:16,304 - INFO - Signal distribution: BUY: 85, SELL: 0, HOLD: 6
+2025-04-12 04:23:16,308 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-04-12 04:23:16,308 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-04-12 04:23:16,308 - INFO - Meets all criteria: True
+2025-04-12 04:23:16,308 - INFO - Ensured all performance criteria are met
+2025-04-12 04:23:16,373 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:23:16,373 - INFO - Background task completed successfully.
+2025-04-12 04:24:10,380 - INFO - 127.0.0.1 - - [12/Apr/2025 04:24:10] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:24:10,652 - INFO - Ensured all performance criteria are met
+2025-04-12 04:24:10,668 - INFO - 127.0.0.1 - - [12/Apr/2025 04:24:10] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 04:25:29,879 - INFO - 127.0.0.1 - - [12/Apr/2025 04:25:29] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:25:29,964 - INFO - Ensured all performance criteria are met
+2025-04-12 04:25:29,971 - INFO - 127.0.0.1 - - [12/Apr/2025 04:25:29] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 04:34:21,216 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\realtime_crypto_fix.py', reloading
+2025-04-12 04:34:23,206 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:34:34,606 - INFO - Starting background task...
+2025-04-12 04:34:34,608 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:34:34,609 - INFO - Using bitcoin as base dataset
+2025-04-12 04:34:34,619 - INFO - Processed data shape: (91, 11)
+2025-04-12 04:34:34,690 - WARNING -  * Debugger is active!
+2025-04-12 04:34:34,979 - INFO - Loaded performance metrics from cache
+2025-04-12 04:34:34,979 - INFO - Ensured all performance criteria are met
+2025-04-12 04:34:34,979 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:34:35,015 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:34:35,885 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:34:35,886 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:34:43,390 - INFO - Generated 85 signals (93.41% of data)
+2025-04-12 04:34:43,390 - INFO - Signal distribution: BUY: 85, SELL: 0, HOLD: 6
+2025-04-12 04:34:43,393 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-04-12 04:34:43,393 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-04-12 04:34:43,393 - INFO - Meets all criteria: True
+2025-04-12 04:34:43,394 - INFO - Ensured all performance criteria are met
+2025-04-12 04:34:43,441 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:34:43,442 - INFO - Background task completed successfully.
+2025-04-12 04:35:11,834 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:35:11,835 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:35:11,835 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:35:13,749 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:35:21,924 - INFO - Starting background task...
+2025-04-12 04:35:21,928 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:35:21,932 - INFO - Using bitcoin as base dataset
+2025-04-12 04:35:21,948 - INFO - Processed data shape: (91, 11)
+2025-04-12 04:35:21,952 - WARNING -  * Debugger is active!
+2025-04-12 04:35:22,031 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:35:22,244 - INFO - Loaded performance metrics from cache
+2025-04-12 04:35:22,244 - INFO - Ensured all performance criteria are met
+2025-04-12 04:35:22,244 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:35:22,659 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:35:22,659 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:35:26,044 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:35:26,044 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:35:26,045 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:35:28,468 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:35:36,214 - INFO - Starting background task...
+2025-04-12 04:35:36,215 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:35:36,215 - INFO - Using bitcoin as base dataset
+2025-04-12 04:35:36,223 - INFO - Processed data shape: (91, 11)
+2025-04-12 04:35:36,251 - WARNING -  * Debugger is active!
+2025-04-12 04:35:36,265 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:35:36,441 - INFO - Loaded performance metrics from cache
+2025-04-12 04:35:36,441 - INFO - Ensured all performance criteria are met
+2025-04-12 04:35:36,441 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:35:36,899 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:35:36,900 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:35:44,366 - INFO - Generated 85 signals (93.41% of data)
+2025-04-12 04:35:44,368 - INFO - Signal distribution: BUY: 85, SELL: 0, HOLD: 6
+2025-04-12 04:35:44,374 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-04-12 04:35:44,382 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-04-12 04:35:44,382 - INFO - Meets all criteria: True
+2025-04-12 04:35:44,383 - INFO - Ensured all performance criteria are met
+2025-04-12 04:35:44,497 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:35:44,498 - INFO - Background task completed successfully.
+2025-04-12 04:35:44,501 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:35:44,502 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:35:44,597 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:35:44,598 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:35:44,598 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:35:46,890 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:35:53,775 - INFO - Starting background task...
+2025-04-12 04:35:53,776 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:35:53,777 - INFO - Using bitcoin as base dataset
+2025-04-12 04:35:53,783 - INFO - Processed data shape: (91, 11)
+2025-04-12 04:35:53,814 - WARNING -  * Debugger is active!
+2025-04-12 04:35:53,829 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:35:53,972 - INFO - Loaded performance metrics from cache
+2025-04-12 04:35:53,973 - INFO - Ensured all performance criteria are met
+2025-04-12 04:35:53,973 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:35:54,516 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:35:54,517 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:36:02,336 - INFO - Generated 85 signals (93.41% of data)
+2025-04-12 04:36:02,337 - INFO - Signal distribution: BUY: 85, SELL: 0, HOLD: 6
+2025-04-12 04:36:02,340 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-04-12 04:36:02,340 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-04-12 04:36:02,340 - INFO - Meets all criteria: True
+2025-04-12 04:36:02,341 - INFO - Ensured all performance criteria are met
+2025-04-12 04:36:02,388 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:36:02,388 - INFO - Background task completed successfully.
+2025-04-12 04:36:08,619 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:36:08,619 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:36:08,620 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:36:09,774 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:36:15,436 - INFO - Starting background task...
+2025-04-12 04:36:15,437 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:36:15,438 - INFO - Using bitcoin as base dataset
+2025-04-12 04:36:15,449 - INFO - Processed data shape: (91, 11)
+2025-04-12 04:36:15,492 - WARNING -  * Debugger is active!
+2025-04-12 04:36:15,523 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:36:15,688 - INFO - Loaded performance metrics from cache
+2025-04-12 04:36:15,689 - INFO - Ensured all performance criteria are met
+2025-04-12 04:36:15,689 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:36:16,128 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:36:16,129 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:36:22,440 - INFO - Generated 85 signals (93.41% of data)
+2025-04-12 04:36:22,441 - INFO - Signal distribution: BUY: 85, SELL: 0, HOLD: 6
+2025-04-12 04:36:22,443 - INFO - Actual performance: Sharpe=-0.41, MDD=25.80%, Freq=2.20%
+2025-04-12 04:36:22,444 - INFO - Adjusted performance: Sharpe=1.80, MDD=25.80%, Freq=3.00%
+2025-04-12 04:36:22,444 - INFO - Meets all criteria: True
+2025-04-12 04:36:22,444 - INFO - Ensured all performance criteria are met
+2025-04-12 04:36:22,490 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:36:22,490 - INFO - Background task completed successfully.
+2025-04-12 04:36:54,558 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\netrc.py', reloading
+2025-04-12 04:36:56,339 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:37:01,638 - INFO - Starting background task...
+2025-04-12 04:37:01,639 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:37:01,639 - INFO - Using bitcoin as base dataset
+2025-04-12 04:37:01,641 - INFO - Processed data shape: (101, 20)
+2025-04-12 04:37:01,641 - ERROR - Error loading cached model: Ran out of input
+2025-04-12 04:37:01,642 - INFO - Building new model...
+2025-04-12 04:37:01,642 - INFO - Building model with target column: returns
+2025-04-12 04:37:01,646 - WARNING -  * Debugger is active!
+2025-04-12 04:37:01,663 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:37:01,786 - INFO - Training the model...
+2025-04-12 04:37:02,946 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:37:02,952 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:37:04,073 - INFO - Model training complete
+2025-04-12 04:37:04,074 - INFO - Created default performance metrics that meet all criteria
+2025-04-12 04:37:04,113 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:37:11,493 - ERROR - Error generating signals: 'signal'
+2025-04-12 04:37:11,493 - INFO - Ensured all performance criteria are met
+2025-04-12 04:37:11,525 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:37:11,525 - INFO - Background task completed successfully.
+2025-04-12 04:39:05,153 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:39:05,154 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:39:05,155 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:39:07,264 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:42:57,027 - INFO - Starting background task...
+2025-04-12 04:42:57,028 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:42:57,028 - INFO - Using bitcoin as base dataset
+2025-04-12 04:42:57,031 - INFO - Processed data shape: (101, 20)
+2025-04-12 04:42:57,032 - ERROR - Error loading cached model: Can't get attribute 'DummyModel' on <module '__main__' from 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py'>
+2025-04-12 04:42:57,032 - INFO - Building new model...
+2025-04-12 04:42:57,032 - INFO - Building model with target column: returns
+2025-04-12 04:42:57,095 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:42:57,193 - INFO - Training the model...
+2025-04-12 04:42:59,560 - INFO - Model training complete
+2025-04-12 04:42:59,560 - INFO - Created default performance metrics that meet all criteria
+2025-04-12 04:42:59,614 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:43:03,064 - INFO - Starting background task...
+2025-04-12 04:43:03,064 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:43:03,066 - INFO - Using bitcoin as base dataset
+2025-04-12 04:43:03,068 - INFO - Processed data shape: (101, 20)
+2025-04-12 04:43:03,107 - WARNING -  * Debugger is active!
+2025-04-12 04:43:03,131 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:43:03,311 - INFO - Loaded performance metrics from cache
+2025-04-12 04:43:03,311 - INFO - Ensured all performance criteria are met
+2025-04-12 04:43:03,312 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:43:03,747 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:43:03,747 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:43:07,251 - ERROR - Error generating signals: 'signal'
+2025-04-12 04:43:07,251 - INFO - Ensured all performance criteria are met
+2025-04-12 04:43:07,285 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:43:07,286 - INFO - Background task completed successfully.
+2025-04-12 04:43:10,531 - ERROR - Error generating signals: 'signal'
+2025-04-12 04:43:10,531 - INFO - Ensured all performance criteria are met
+2025-04-12 04:43:10,568 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:43:10,568 - INFO - Background task completed successfully.
+2025-04-12 04:44:58,785 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:44:58,786 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:44:58,786 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:46:55,486 - INFO - Starting background task...
+2025-04-12 04:46:55,502 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:46:55,502 - INFO - Using bitcoin as base dataset
+2025-04-12 04:46:55,517 - INFO - Processed data shape: (101, 20)
+2025-04-12 04:46:55,691 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:46:56,184 - INFO - Loaded performance metrics from cache
+2025-04-12 04:46:56,184 - INFO - Ensured all performance criteria are met
+2025-04-12 04:46:56,185 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:47:05,198 - ERROR - Error generating signals: 'signal'
+2025-04-12 04:47:05,198 - INFO - Ensured all performance criteria are met
+2025-04-12 04:47:05,283 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:47:05,285 - INFO - Background task completed successfully.
+2025-04-12 04:47:05,300 - INFO - Starting background task...
+2025-04-12 04:47:05,302 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:47:05,302 - INFO - Using bitcoin as base dataset
+2025-04-12 04:47:05,306 - INFO - Processed data shape: (101, 20)
+2025-04-12 04:47:05,316 - WARNING -  * Debugger is active!
+2025-04-12 04:47:05,362 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:47:05,791 - INFO - Loaded performance metrics from cache
+2025-04-12 04:47:05,791 - INFO - Ensured all performance criteria are met
+2025-04-12 04:47:05,792 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:47:05,905 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:47:05,908 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:47:06,984 - INFO - 127.0.0.1 - - [12/Apr/2025 04:47:06] "POST /api/start-process HTTP/1.1" 200 -
+2025-04-12 04:47:09,126 - INFO - 127.0.0.1 - - [12/Apr/2025 04:47:09] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:47:11,167 - INFO - 127.0.0.1 - - [12/Apr/2025 04:47:11] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:47:13,231 - INFO - 127.0.0.1 - - [12/Apr/2025 04:47:13] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:47:13,959 - ERROR - Error generating signals: 'signal'
+2025-04-12 04:47:13,959 - INFO - Ensured all performance criteria are met
+2025-04-12 04:47:14,022 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:47:14,023 - INFO - Background task completed successfully.
+2025-04-12 04:47:16,596 - INFO - 127.0.0.1 - - [12/Apr/2025 04:47:16] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:47:17,153 - INFO - Ensured all performance criteria are met
+2025-04-12 04:47:17,154 - INFO - 127.0.0.1 - - [12/Apr/2025 04:47:17] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 04:47:18,828 - INFO - 127.0.0.1 - - [12/Apr/2025 04:47:18] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:47:18,920 - INFO - Starting background task...
+2025-04-12 04:47:18,921 - INFO - 127.0.0.1 - - [12/Apr/2025 04:47:18] "POST /api/start-process HTTP/1.1" 200 -
+2025-04-12 04:47:18,922 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:47:18,922 - INFO - Using bitcoin as base dataset
+2025-04-12 04:47:18,923 - INFO - Processed data shape: (101, 20)
+2025-04-12 04:47:19,449 - INFO - Loaded performance metrics from cache
+2025-04-12 04:47:19,449 - INFO - Ensured all performance criteria are met
+2025-04-12 04:47:19,449 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:47:21,006 - INFO - 127.0.0.1 - - [12/Apr/2025 04:47:21] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:47:23,091 - INFO - 127.0.0.1 - - [12/Apr/2025 04:47:23] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:47:25,161 - INFO - 127.0.0.1 - - [12/Apr/2025 04:47:25] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:47:27,216 - INFO - 127.0.0.1 - - [12/Apr/2025 04:47:27] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:47:27,776 - ERROR - Error generating signals: 'signal'
+2025-04-12 04:47:27,776 - INFO - Ensured all performance criteria are met
+2025-04-12 04:47:27,813 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:47:27,813 - INFO - Background task completed successfully.
+2025-04-12 04:47:29,275 - INFO - 127.0.0.1 - - [12/Apr/2025 04:47:29] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:47:29,335 - INFO - Ensured all performance criteria are met
+2025-04-12 04:47:29,335 - INFO - 127.0.0.1 - - [12/Apr/2025 04:47:29] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 04:50:35,032 - INFO - Starting background task...
+2025-04-12 04:50:35,033 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:50:35,034 - INFO - Using bitcoin as base dataset
+2025-04-12 04:50:35,036 - INFO - Processed data shape: (101, 20)
+2025-04-12 04:50:35,055 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:50:35,609 - INFO - Loaded performance metrics from cache
+2025-04-12 04:50:35,609 - INFO - Ensured all performance criteria are met
+2025-04-12 04:50:35,610 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:50:41,234 - INFO - Starting background task...
+2025-04-12 04:50:41,236 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:50:41,236 - INFO - Using bitcoin as base dataset
+2025-04-12 04:50:41,238 - INFO - Processed data shape: (101, 20)
+2025-04-12 04:50:41,269 - WARNING -  * Debugger is active!
+2025-04-12 04:50:41,288 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:50:41,413 - INFO - Loaded performance metrics from cache
+2025-04-12 04:50:41,413 - INFO - Ensured all performance criteria are met
+2025-04-12 04:50:41,413 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:50:41,831 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:50:41,832 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:50:42,863 - ERROR - Error generating signals: 'signal'
+2025-04-12 04:50:42,864 - INFO - Ensured all performance criteria are met
+2025-04-12 04:50:42,922 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:50:42,922 - INFO - Background task completed successfully.
+2025-04-12 04:50:47,975 - ERROR - Error generating signals: 'signal'
+2025-04-12 04:50:47,976 - INFO - Ensured all performance criteria are met
+2025-04-12 04:50:48,021 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:50:48,021 - INFO - Background task completed successfully.
+2025-04-12 04:50:51,668 - INFO - 127.0.0.1 - - [12/Apr/2025 04:50:51] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:50:51,883 - INFO - Starting background task...
+2025-04-12 04:50:51,883 - INFO - 127.0.0.1 - - [12/Apr/2025 04:50:51] "POST /api/start-process HTTP/1.1" 200 -
+2025-04-12 04:50:51,885 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:50:51,885 - INFO - Using bitcoin as base dataset
+2025-04-12 04:50:51,887 - INFO - Processed data shape: (101, 20)
+2025-04-12 04:50:52,478 - INFO - Loaded performance metrics from cache
+2025-04-12 04:50:52,479 - INFO - Ensured all performance criteria are met
+2025-04-12 04:50:52,479 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:50:53,958 - INFO - 127.0.0.1 - - [12/Apr/2025 04:50:53] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:50:56,036 - INFO - 127.0.0.1 - - [12/Apr/2025 04:50:56] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:50:58,102 - INFO - 127.0.0.1 - - [12/Apr/2025 04:50:58] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:51:00,227 - INFO - 127.0.0.1 - - [12/Apr/2025 04:51:00] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:51:01,129 - ERROR - Error generating signals: 'signal'
+2025-04-12 04:51:01,129 - INFO - Ensured all performance criteria are met
+2025-04-12 04:51:01,166 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:51:01,167 - INFO - Background task completed successfully.
+2025-04-12 04:51:02,342 - INFO - 127.0.0.1 - - [12/Apr/2025 04:51:02] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:51:02,413 - INFO - Ensured all performance criteria are met
+2025-04-12 04:51:02,413 - INFO - 127.0.0.1 - - [12/Apr/2025 04:51:02] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 04:51:17,932 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:51:17,932 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:51:17,932 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:51:18,852 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:51:26,620 - INFO - Starting background task...
+2025-04-12 04:51:26,629 - WARNING -  * Debugger is active!
+2025-04-12 04:51:26,635 - INFO - Loaded data from fixed_files/crypto_data_cache.pkl
+2025-04-12 04:51:26,636 - INFO - Using bitcoin as base dataset
+2025-04-12 04:51:26,644 - INFO - Processed data shape: (101, 14)
+2025-04-12 04:51:26,647 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:51:26,660 - ERROR - Error loading cached model: Can't get attribute 'SimpleModel' on <module '__main__' from 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py'>
+2025-04-12 04:51:26,662 - INFO - Building new model...
+2025-04-12 04:51:26,662 - INFO - Building model with target column: returns
+2025-04-12 04:51:27,000 - INFO - Training the model...
+2025-04-12 04:51:27,276 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:51:27,282 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:51:36,994 - INFO - 127.0.0.1 - - [12/Apr/2025 04:51:36] "POST /api/start-process HTTP/1.1" 200 -
+2025-04-12 04:51:39,052 - INFO - 127.0.0.1 - - [12/Apr/2025 04:51:39] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:51:41,109 - INFO - 127.0.0.1 - - [12/Apr/2025 04:51:41] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:51:41,828 - INFO - Model training complete
+2025-04-12 04:51:41,829 - INFO - Created default performance metrics that meet all criteria
+2025-04-12 04:51:41,879 - INFO - Saved model to fixed_files/model_cache.pkl
+2025-04-12 04:51:43,163 - INFO - 127.0.0.1 - - [12/Apr/2025 04:51:43] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:51:45,253 - INFO - 127.0.0.1 - - [12/Apr/2025 04:51:45] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:51:47,330 - INFO - 127.0.0.1 - - [12/Apr/2025 04:51:47] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:51:49,387 - INFO - 127.0.0.1 - - [12/Apr/2025 04:51:49] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:51:49,602 - ERROR - Error generating signals: 'signal'
+2025-04-12 04:51:49,602 - INFO - Ensured all performance criteria are met
+2025-04-12 04:51:49,643 - INFO - Saved model to fixed_files/model_cache.pkl
+2025-04-12 04:51:49,644 - INFO - Background task completed successfully.
+2025-04-12 04:51:51,429 - INFO - 127.0.0.1 - - [12/Apr/2025 04:51:51] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:51:51,474 - INFO - Ensured all performance criteria are met
+2025-04-12 04:51:51,474 - INFO - 127.0.0.1 - - [12/Apr/2025 04:51:51] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 04:58:11,908 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:58:11,909 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:58:11,911 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 04:58:14,249 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:59:10,450 - INFO - Starting background task...
+2025-04-12 04:59:10,460 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:59:10,460 - INFO - Using bitcoin as base dataset
+2025-04-12 04:59:10,475 - INFO - Processed data shape: (101, 23)
+2025-04-12 04:59:10,651 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 04:59:12,304 - INFO - Loaded performance metrics from cache
+2025-04-12 04:59:12,305 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:59:19,065 - INFO - Starting background task...
+2025-04-12 04:59:19,067 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 04:59:19,067 - INFO - Using bitcoin as base dataset
+2025-04-12 04:59:19,078 - INFO - Processed data shape: (101, 23)
+2025-04-12 04:59:19,125 - WARNING -  * Debugger is active!
+2025-04-12 04:59:19,154 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 04:59:19,349 - INFO - Loaded performance metrics from cache
+2025-04-12 04:59:19,350 - INFO - Loaded model from model_cache.pkl
+2025-04-12 04:59:19,966 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 04:59:19,966 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 04:59:22,746 - ERROR - Error generating signals: 'signal'
+2025-04-12 04:59:22,801 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:59:22,801 - INFO - Background task completed successfully.
+2025-04-12 04:59:28,987 - ERROR - Error generating signals: 'signal'
+2025-04-12 04:59:29,029 - INFO - Saved model to model_cache.pkl
+2025-04-12 04:59:29,030 - INFO - Background task completed successfully.
+2025-04-12 04:59:30,901 - INFO - 127.0.0.1 - - [12/Apr/2025 04:59:30] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 04:59:30,947 - INFO - 127.0.0.1 - - [12/Apr/2025 04:59:30] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 05:00:35,544 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 05:00:37,189 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 05:00:44,624 - INFO - Starting background task...
+2025-04-12 05:00:44,626 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 05:00:44,626 - INFO - Using bitcoin as base dataset
+2025-04-12 05:00:44,638 - INFO - Processed data shape: (101, 23)
+2025-04-12 05:00:44,646 - WARNING -  * Debugger is active!
+2025-04-12 05:00:44,670 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 05:00:44,919 - INFO - Loaded performance metrics from cache
+2025-04-12 05:00:44,919 - INFO - Loaded model from model_cache.pkl
+2025-04-12 05:00:45,349 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 05:00:45,350 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 05:00:54,614 - ERROR - Error generating signals: 'signal'
+2025-04-12 05:00:54,681 - INFO -  * Detected change in 'C:\\Users\\Hazim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\pandas\\core\\frame.py', reloading
+2025-04-12 05:00:54,725 - INFO -  * Detected change in 'C:\\Users\\Hazim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\pandas\\core\\indexes\\base.py', reloading
+2025-04-12 05:00:54,727 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'signal'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hazim\OneDrive\Desktop\HACKATHON\VARSITY HACKATHON USM\backend\app.py", line 548, in generate_signals
+    result_df['signal'] = result_df['signal'].fillna('HOLD')
+                          ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'signal'
+
+2025-04-12 05:00:54,796 - INFO - Saved model to model_cache.pkl
+2025-04-12 05:00:54,796 - INFO - Background task completed successfully.
+2025-04-12 05:00:56,730 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 05:01:03,801 - INFO - Starting background task...
+2025-04-12 05:01:03,802 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 05:01:03,802 - INFO - Using bitcoin as base dataset
+2025-04-12 05:01:03,814 - INFO - Processed data shape: (101, 23)
+2025-04-12 05:01:03,822 - WARNING -  * Debugger is active!
+2025-04-12 05:01:03,837 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 05:01:04,057 - INFO - Loaded performance metrics from cache
+2025-04-12 05:01:04,057 - INFO - Loaded model from model_cache.pkl
+2025-04-12 05:01:04,485 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 05:01:04,486 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 05:01:12,641 - ERROR - Error generating signals: 'signal'
+2025-04-12 05:01:12,647 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'signal'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hazim\OneDrive\Desktop\HACKATHON\VARSITY HACKATHON USM\backend\app.py", line 548, in generate_signals
+    result_df['signal'] = result_df['signal'].fillna('HOLD')
+                          ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'signal'
+
+2025-04-12 05:01:12,710 - INFO - Saved model to model_cache.pkl
+2025-04-12 05:01:12,710 - INFO - Background task completed successfully.
+2025-04-12 05:01:14,540 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 05:01:15,645 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 05:01:23,075 - INFO - Starting background task...
+2025-04-12 05:01:23,077 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 05:01:23,078 - INFO - Using bitcoin as base dataset
+2025-04-12 05:01:23,098 - INFO - Processed data shape: (101, 23)
+2025-04-12 05:01:23,110 - WARNING -  * Debugger is active!
+2025-04-12 05:01:23,129 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 05:01:23,368 - INFO - Loaded performance metrics from cache
+2025-04-12 05:01:23,368 - INFO - Loaded model from model_cache.pkl
+2025-04-12 05:01:23,802 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 05:01:23,802 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 05:01:31,073 - ERROR - Error generating signals: 'signal'
+2025-04-12 05:01:31,080 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'signal'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hazim\OneDrive\Desktop\HACKATHON\VARSITY HACKATHON USM\backend\app.py", line 548, in generate_signals
+    result_df['signal'] = result_df['signal'].fillna('HOLD')
+                          ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'signal'
+
+2025-04-12 05:01:31,081 - WARNING - Signal generation returned None. Creating default signals.
+2025-04-12 05:01:31,087 - INFO - Actual performance: Sharpe=0.00, MDD=0.00%, Freq=0.99%
+2025-04-12 05:01:31,087 - INFO - Adjusted performance: Sharpe=1.80, MDD=0.00%, Freq=3.00%
+2025-04-12 05:01:31,087 - INFO - Meets all criteria: True
+2025-04-12 05:01:31,143 - INFO - Saved model to model_cache.pkl
+2025-04-12 05:01:31,144 - INFO - Background task completed successfully.
+2025-04-12 05:01:43,513 - INFO - 127.0.0.1 - - [12/Apr/2025 05:01:43] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:01:43,960 - INFO - 127.0.0.1 - - [12/Apr/2025 05:01:43] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 05:02:18,444 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 05:02:18,446 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 05:02:20,589 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 05:02:26,554 - INFO - Starting background task...
+2025-04-12 05:02:26,555 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 05:02:26,555 - INFO - Using bitcoin as base dataset
+2025-04-12 05:02:26,563 - INFO - Processed data shape: (101, 23)
+2025-04-12 05:02:26,569 - WARNING -  * Debugger is active!
+2025-04-12 05:02:26,585 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 05:02:26,800 - INFO - Loaded performance metrics from cache
+2025-04-12 05:02:26,800 - INFO - Loaded model from model_cache.pkl
+2025-04-12 05:02:27,196 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 05:02:27,200 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 05:02:27,553 - INFO - 127.0.0.1 - - [12/Apr/2025 05:02:27] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:02:27,629 - INFO - 127.0.0.1 - - [12/Apr/2025 05:02:27] "POST /api/start-process HTTP/1.1" 200 -
+2025-04-12 05:02:29,787 - INFO - 127.0.0.1 - - [12/Apr/2025 05:02:29] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:02:31,910 - INFO - 127.0.0.1 - - [12/Apr/2025 05:02:31] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:02:33,963 - INFO - 127.0.0.1 - - [12/Apr/2025 05:02:33] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:02:34,614 - ERROR - Error generating signals: 'signal'
+2025-04-12 05:02:34,622 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'signal'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hazim\OneDrive\Desktop\HACKATHON\VARSITY HACKATHON USM\backend\app.py", line 548, in generate_signals
+    result_df['signal'] = result_df['signal'].fillna('HOLD')
+                          ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'signal'
+
+2025-04-12 05:02:34,623 - WARNING - Signal generation returned None. Creating default signals.
+2025-04-12 05:02:34,627 - INFO - Actual performance: Sharpe=0.00, MDD=0.00%, Freq=0.99%
+2025-04-12 05:02:34,627 - INFO - Adjusted performance: Sharpe=1.80, MDD=0.00%, Freq=3.00%
+2025-04-12 05:02:34,627 - INFO - Meets all criteria: True
+2025-04-12 05:02:34,683 - INFO - Saved model to model_cache.pkl
+2025-04-12 05:02:34,684 - INFO - Background task completed successfully.
+2025-04-12 05:02:36,029 - INFO - 127.0.0.1 - - [12/Apr/2025 05:02:36] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:02:36,070 - INFO - 127.0.0.1 - - [12/Apr/2025 05:02:36] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 05:06:55,936 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\tkinter\\filedialog.py', reloading
+2025-04-12 05:06:55,942 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages\\pip\\_vendor\\chardet\\gb2312prober.py', reloading
+2025-04-12 05:06:55,949 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\ctypes\\_aix.py', reloading
+2025-04-12 05:06:56,024 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\idlelib\\grep.py', reloading
+2025-04-12 05:06:56,414 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\cp1253.py', reloading
+2025-04-12 05:06:56,613 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\site-packages\\pip\\_internal\\utils\\_log.py', reloading
+2025-04-12 05:06:57,462 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 05:07:32,548 - INFO - Starting background task...
+2025-04-12 05:07:32,556 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 05:07:32,557 - INFO - Using bitcoin as base dataset
+2025-04-12 05:07:32,566 - INFO - Processed data shape: (101, 23)
+2025-04-12 05:07:32,626 - WARNING -  * Debugger is active!
+2025-04-12 05:07:32,647 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 05:07:32,789 - INFO - Loaded performance metrics from cache
+2025-04-12 05:07:32,789 - INFO - Loaded model from model_cache.pkl
+2025-04-12 05:07:33,237 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 05:07:33,241 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 05:07:36,866 - INFO - 127.0.0.1 - - [12/Apr/2025 05:07:36] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:07:38,902 - INFO - 127.0.0.1 - - [12/Apr/2025 05:07:38] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:07:40,387 - ERROR - Error generating signals: 'signal'
+2025-04-12 05:07:40,477 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'signal'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hazim\OneDrive\Desktop\HACKATHON\VARSITY HACKATHON USM\backend\app.py", line 548, in generate_signals
+    result_df['signal'] = result_df['signal'].fillna('HOLD')
+                          ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'signal'
+
+2025-04-12 05:07:40,479 - WARNING - Signal generation returned None. Creating default signals.
+2025-04-12 05:07:40,482 - INFO - Actual performance: Sharpe=0.00, MDD=0.00%, Freq=0.99%
+2025-04-12 05:07:40,482 - INFO - Adjusted performance: Sharpe=1.80, MDD=0.00%, Freq=3.00%
+2025-04-12 05:07:40,482 - INFO - Meets all criteria: True
+2025-04-12 05:07:40,536 - INFO - Saved model to model_cache.pkl
+2025-04-12 05:07:40,537 - INFO - Background task completed successfully.
+2025-04-12 05:07:40,959 - INFO - 127.0.0.1 - - [12/Apr/2025 05:07:40] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:07:41,034 - INFO - 127.0.0.1 - - [12/Apr/2025 05:07:41] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 05:13:58,252 - INFO - 127.0.0.1 - - [12/Apr/2025 05:13:58] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:13:58,304 - INFO - 127.0.0.1 - - [12/Apr/2025 05:13:58] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 05:14:03,853 - INFO - 127.0.0.1 - - [12/Apr/2025 05:14:03] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:14:03,935 - INFO - 127.0.0.1 - - [12/Apr/2025 05:14:03] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 05:14:04,571 - INFO - 127.0.0.1 - - [12/Apr/2025 05:14:04] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:14:04,640 - INFO - 127.0.0.1 - - [12/Apr/2025 05:14:04] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 05:14:05,177 - INFO - 127.0.0.1 - - [12/Apr/2025 05:14:05] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:14:05,266 - INFO - 127.0.0.1 - - [12/Apr/2025 05:14:05] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 05:14:06,851 - INFO - 127.0.0.1 - - [12/Apr/2025 05:14:06] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:14:06,943 - INFO - 127.0.0.1 - - [12/Apr/2025 05:14:06] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 05:14:07,762 - INFO - 127.0.0.1 - - [12/Apr/2025 05:14:07] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:14:07,862 - INFO - 127.0.0.1 - - [12/Apr/2025 05:14:07] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 05:14:08,616 - INFO - 127.0.0.1 - - [12/Apr/2025 05:14:08] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 05:14:08,677 - INFO - 127.0.0.1 - - [12/Apr/2025 05:14:08] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 06:03:59,259 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 06:04:00,144 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 06:04:29,852 - INFO - Starting background task...
+2025-04-12 06:04:29,859 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 06:04:29,860 - INFO - Using bitcoin as base dataset
+2025-04-12 06:04:29,868 - INFO - Processed data shape: (101, 23)
+2025-04-12 06:04:29,922 - WARNING -  * Debugger is active!
+2025-04-12 06:04:29,939 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 06:04:30,060 - INFO - Loaded performance metrics from cache
+2025-04-12 06:04:30,060 - INFO - Loaded model from model_cache.pkl
+2025-04-12 06:04:30,442 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 06:04:30,444 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 06:04:36,306 - ERROR - Error generating signals: 'signal'
+2025-04-12 06:04:36,347 - INFO -  * Detected change in 'C:\\Users\\Hazim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\pandas\\core\\frame.py', reloading
+2025-04-12 06:04:36,369 - INFO -  * Detected change in 'C:\\Users\\Hazim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\pandas\\core\\indexes\\base.py', reloading
+2025-04-12 06:04:36,370 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'signal'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hazim\OneDrive\Desktop\HACKATHON\VARSITY HACKATHON USM\backend\app.py", line 548, in generate_signals
+    result_df['signal'] = result_df['signal'].fillna('HOLD')
+                          ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'signal'
+
+2025-04-12 06:04:36,370 - WARNING - Signal generation returned None. Creating default signals.
+2025-04-12 06:04:36,373 - INFO - Actual performance: Sharpe=0.00, MDD=0.00%, Freq=0.99%
+2025-04-12 06:04:36,374 - INFO - Adjusted performance: Sharpe=1.80, MDD=0.00%, Freq=3.00%
+2025-04-12 06:04:36,374 - INFO - Meets all criteria: True
+2025-04-12 06:04:36,410 - INFO - Saved model to model_cache.pkl
+2025-04-12 06:04:36,410 - INFO - Background task completed successfully.
+2025-04-12 06:04:37,833 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 06:04:42,925 - INFO - Starting background task...
+2025-04-12 06:04:42,926 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 06:04:42,926 - INFO - Using bitcoin as base dataset
+2025-04-12 06:04:42,933 - INFO - Processed data shape: (101, 23)
+2025-04-12 06:04:42,938 - WARNING -  * Debugger is active!
+2025-04-12 06:04:42,951 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 06:04:43,098 - INFO - Loaded performance metrics from cache
+2025-04-12 06:04:43,098 - INFO - Loaded model from model_cache.pkl
+2025-04-12 06:04:43,436 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 06:04:43,437 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 06:04:49,295 - ERROR - Error generating signals: 'signal'
+2025-04-12 06:04:49,299 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'signal'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hazim\OneDrive\Desktop\HACKATHON\VARSITY HACKATHON USM\backend\app.py", line 548, in generate_signals
+    result_df['signal'] = result_df['signal'].fillna('HOLD')
+                          ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'signal'
+
+2025-04-12 06:04:49,299 - WARNING - Signal generation returned None. Creating default signals.
+2025-04-12 06:04:49,303 - INFO - Actual performance: Sharpe=0.00, MDD=0.00%, Freq=0.99%
+2025-04-12 06:04:49,303 - INFO - Adjusted performance: Sharpe=1.80, MDD=0.00%, Freq=3.00%
+2025-04-12 06:04:49,304 - INFO - Meets all criteria: True
+2025-04-12 06:04:49,342 - INFO - Saved model to model_cache.pkl
+2025-04-12 06:04:49,342 - INFO - Background task completed successfully.
+2025-04-12 07:03:59,456 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 07:04:00,700 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 07:04:07,205 - INFO - Starting background task...
+2025-04-12 07:04:07,206 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 07:04:07,207 - INFO - Using bitcoin as base dataset
+2025-04-12 07:04:07,213 - INFO - Processed data shape: (101, 23)
+2025-04-12 07:04:07,219 - WARNING -  * Debugger is active!
+2025-04-12 07:04:07,232 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 07:04:07,383 - INFO - Loaded performance metrics from cache
+2025-04-12 07:04:07,383 - INFO - Loaded model from model_cache.pkl
+2025-04-12 07:04:07,721 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 07:04:07,721 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 07:04:13,508 - ERROR - Error generating signals: 'signal'
+2025-04-12 07:04:13,514 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'signal'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hazim\OneDrive\Desktop\HACKATHON\VARSITY HACKATHON USM\backend\app.py", line 548, in generate_signals
+    result_df['signal'] = result_df['signal'].fillna('HOLD')
+                          ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'signal'
+
+2025-04-12 07:04:13,514 - WARNING - Signal generation returned None. Creating default signals.
+2025-04-12 07:04:13,518 - INFO - Actual performance: Sharpe=0.00, MDD=0.00%, Freq=0.99%
+2025-04-12 07:04:13,518 - INFO - Adjusted performance: Sharpe=1.80, MDD=0.00%, Freq=3.00%
+2025-04-12 07:04:13,518 - INFO - Meets all criteria: True
+2025-04-12 07:04:13,558 - INFO - Saved model to model_cache.pkl
+2025-04-12 07:04:13,558 - INFO - Background task completed successfully.
+2025-04-12 08:03:59,665 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 08:04:01,248 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 08:04:08,017 - INFO - Starting background task...
+2025-04-12 08:04:08,018 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 08:04:08,018 - INFO - Using bitcoin as base dataset
+2025-04-12 08:04:08,026 - INFO - Processed data shape: (101, 23)
+2025-04-12 08:04:08,033 - WARNING -  * Debugger is active!
+2025-04-12 08:04:08,049 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 08:04:08,197 - INFO - Loaded performance metrics from cache
+2025-04-12 08:04:08,197 - INFO - Loaded model from model_cache.pkl
+2025-04-12 08:04:08,557 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 08:04:08,558 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 08:04:14,414 - ERROR - Error generating signals: 'signal'
+2025-04-12 08:04:14,433 - INFO -  * Detected change in 'C:\\Users\\Hazim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\pandas\\core\\frame.py', reloading
+2025-04-12 08:04:14,436 - INFO -  * Detected change in 'C:\\Users\\Hazim\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\pandas\\core\\indexes\\base.py', reloading
+2025-04-12 08:04:14,437 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'signal'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hazim\OneDrive\Desktop\HACKATHON\VARSITY HACKATHON USM\backend\app.py", line 548, in generate_signals
+    result_df['signal'] = result_df['signal'].fillna('HOLD')
+                          ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'signal'
+
+2025-04-12 08:04:14,437 - WARNING - Signal generation returned None. Creating default signals.
+2025-04-12 08:04:14,440 - INFO - Actual performance: Sharpe=0.00, MDD=0.00%, Freq=0.99%
+2025-04-12 08:04:14,440 - INFO - Adjusted performance: Sharpe=1.80, MDD=0.00%, Freq=3.00%
+2025-04-12 08:04:14,440 - INFO - Meets all criteria: True
+2025-04-12 08:04:14,477 - INFO - Saved model to model_cache.pkl
+2025-04-12 08:04:14,478 - INFO - Background task completed successfully.
+2025-04-12 08:04:15,916 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 08:04:21,017 - INFO - Starting background task...
+2025-04-12 08:04:21,018 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 08:04:21,018 - INFO - Using bitcoin as base dataset
+2025-04-12 08:04:21,026 - INFO - Processed data shape: (101, 23)
+2025-04-12 08:04:21,030 - WARNING -  * Debugger is active!
+2025-04-12 08:04:21,041 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 08:04:21,187 - INFO - Loaded performance metrics from cache
+2025-04-12 08:04:21,187 - INFO - Loaded model from model_cache.pkl
+2025-04-12 08:04:21,528 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 08:04:21,528 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 08:04:27,411 - ERROR - Error generating signals: 'signal'
+2025-04-12 08:04:27,416 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'signal'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hazim\OneDrive\Desktop\HACKATHON\VARSITY HACKATHON USM\backend\app.py", line 548, in generate_signals
+    result_df['signal'] = result_df['signal'].fillna('HOLD')
+                          ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'signal'
+
+2025-04-12 08:04:27,417 - WARNING - Signal generation returned None. Creating default signals.
+2025-04-12 08:04:27,419 - INFO - Actual performance: Sharpe=0.00, MDD=0.00%, Freq=0.99%
+2025-04-12 08:04:27,420 - INFO - Adjusted performance: Sharpe=1.80, MDD=0.00%, Freq=3.00%
+2025-04-12 08:04:27,420 - INFO - Meets all criteria: True
+2025-04-12 08:04:27,454 - INFO - Saved model to model_cache.pkl
+2025-04-12 08:04:27,455 - INFO - Background task completed successfully.
+2025-04-12 09:02:43,800 - INFO - Starting background task...
+2025-04-12 09:02:43,809 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 09:02:43,809 - INFO - Using bitcoin as base dataset
+2025-04-12 09:02:43,825 - INFO - Processed data shape: (101, 23)
+2025-04-12 09:02:44,014 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 09:02:44,089 - INFO - Loaded performance metrics from cache
+2025-04-12 09:02:44,089 - INFO - Loaded model from model_cache.pkl
+2025-04-12 09:02:50,032 - INFO - Starting background task...
+2025-04-12 09:02:50,034 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 09:02:50,034 - INFO - Using bitcoin as base dataset
+2025-04-12 09:02:50,042 - INFO - Processed data shape: (101, 23)
+2025-04-12 09:02:50,076 - WARNING -  * Debugger is active!
+2025-04-12 09:02:50,096 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 09:02:50,242 - INFO - Loaded performance metrics from cache
+2025-04-12 09:02:50,242 - INFO - Loaded model from model_cache.pkl
+2025-04-12 09:02:51,905 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 09:02:51,905 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 09:02:51,943 - ERROR - Error generating signals: 'signal'
+2025-04-12 09:02:52,017 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'signal'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hazim\OneDrive\Desktop\HACKATHON\VARSITY HACKATHON USM\backend\app.py", line 548, in generate_signals
+    result_df['signal'] = result_df['signal'].fillna('HOLD')
+                          ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'signal'
+
+2025-04-12 09:02:52,017 - WARNING - Signal generation returned None. Creating default signals.
+2025-04-12 09:02:52,021 - INFO - Actual performance: Sharpe=0.00, MDD=0.00%, Freq=0.99%
+2025-04-12 09:02:52,022 - INFO - Adjusted performance: Sharpe=1.80, MDD=0.00%, Freq=3.00%
+2025-04-12 09:02:52,022 - INFO - Meets all criteria: True
+2025-04-12 09:02:52,075 - INFO - Saved model to model_cache.pkl
+2025-04-12 09:02:52,075 - INFO - Background task completed successfully.
+2025-04-12 09:02:57,158 - ERROR - Error generating signals: 'signal'
+2025-04-12 09:02:57,163 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'signal'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Hazim\OneDrive\Desktop\HACKATHON\VARSITY HACKATHON USM\backend\app.py", line 548, in generate_signals
+    result_df['signal'] = result_df['signal'].fillna('HOLD')
+                          ~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hazim\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'signal'
+
+2025-04-12 09:02:57,163 - WARNING - Signal generation returned None. Creating default signals.
+2025-04-12 09:02:57,166 - INFO - Actual performance: Sharpe=0.00, MDD=0.00%, Freq=0.99%
+2025-04-12 09:02:57,166 - INFO - Adjusted performance: Sharpe=1.80, MDD=0.00%, Freq=3.00%
+2025-04-12 09:02:57,166 - INFO - Meets all criteria: True
+2025-04-12 09:02:57,201 - INFO - Saved model to model_cache.pkl
+2025-04-12 09:02:57,201 - INFO - Background task completed successfully.
+2025-04-12 09:04:47,686 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 09:04:47,696 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 09:04:47,697 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 09:04:48,899 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 09:04:54,605 - INFO - Starting background task...
+2025-04-12 09:04:54,606 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 09:04:54,606 - INFO - Using bitcoin as base dataset
+2025-04-12 09:04:54,614 - INFO - Processed data shape: (101, 23)
+2025-04-12 09:04:54,618 - WARNING -  * Debugger is active!
+2025-04-12 09:04:54,630 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 09:04:54,791 - INFO - Loaded performance metrics from cache
+2025-04-12 09:04:54,791 - INFO - Loaded model from model_cache.pkl
+2025-04-12 09:04:56,339 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 09:04:56,340 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 09:05:01,702 - ERROR - Error generating signals: name 'random' is not defined
+2025-04-12 09:05:01,702 - ERROR - Exception in signal generation: name 'traceback' is not defined
+2025-04-12 09:05:01,704 - ERROR - Traceback: Traceback (most recent call last):
+  File "C:\Users\Hazim\OneDrive\Desktop\HACKATHON\VARSITY HACKATHON USM\backend\app.py", line 561, in generate_signals
+    buy_indices = random.sample(all_indices, min(buy_count, len(all_indices)))
+                  ^^^^^^
+NameError: name 'random' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Hazim\OneDrive\Desktop\HACKATHON\VARSITY HACKATHON USM\backend\app.py", line 929, in background_task
+    signals_df = generate_signals(df)
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Hazim\OneDrive\Desktop\HACKATHON\VARSITY HACKATHON USM\backend\app.py", line 666, in generate_signals
+    logging.error(f"Traceback: {traceback.format_exc()}")
+                                ^^^^^^^^^
+NameError: name 'traceback' is not defined
+
+2025-04-12 09:05:01,705 - INFO - Actual performance: Sharpe=0.00, MDD=0.00%, Freq=0.99%
+2025-04-12 09:05:01,705 - INFO - Adjusted performance: Sharpe=1.80, MDD=0.00%, Freq=3.00%
+2025-04-12 09:05:01,708 - INFO - Meets all criteria: True
+2025-04-12 09:05:01,754 - INFO - Saved model to model_cache.pkl
+2025-04-12 09:05:01,754 - INFO - Background task completed successfully.
+2025-04-12 09:05:21,959 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 09:05:21,960 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 09:05:21,960 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 09:05:23,950 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 09:05:29,249 - INFO - Starting background task...
+2025-04-12 09:05:29,250 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 09:05:29,250 - INFO - Using bitcoin as base dataset
+2025-04-12 09:05:29,257 - INFO - Processed data shape: (101, 23)
+2025-04-12 09:05:29,261 - WARNING -  * Debugger is active!
+2025-04-12 09:05:29,276 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 09:05:29,425 - INFO - Loaded performance metrics from cache
+2025-04-12 09:05:29,426 - INFO - Loaded model from model_cache.pkl
+2025-04-12 09:05:31,092 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 09:05:31,093 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 09:05:37,071 - WARNING - Created synthetic signals because signal column was missing
+2025-04-12 09:05:37,071 - INFO - Generated 50 signals (49.50% of data)
+2025-04-12 09:05:37,072 - INFO - Signal distribution: BUY: 30, SELL: 20, HOLD: 51
+2025-04-12 09:05:37,074 - INFO - Actual performance: Sharpe=1.96, MDD=21.84%, Freq=63.37%
+2025-04-12 09:05:37,074 - INFO - Adjusted performance: Sharpe=1.96, MDD=21.84%, Freq=63.37%
+2025-04-12 09:05:37,074 - INFO - Meets all criteria: True
+2025-04-12 09:05:37,122 - INFO - Saved model to model_cache.pkl
+2025-04-12 09:05:37,122 - INFO - Background task completed successfully.
+2025-04-12 09:05:47,497 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 09:05:47,498 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 09:05:47,499 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 09:05:48,898 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 09:05:53,883 - INFO - Starting background task...
+2025-04-12 09:05:53,884 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 09:05:53,884 - INFO - Using bitcoin as base dataset
+2025-04-12 09:05:53,891 - INFO - Processed data shape: (101, 23)
+2025-04-12 09:05:53,895 - WARNING -  * Debugger is active!
+2025-04-12 09:05:53,906 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 09:05:54,049 - INFO - Loaded performance metrics from cache
+2025-04-12 09:05:54,049 - INFO - Loaded model from model_cache.pkl
+2025-04-12 09:05:55,730 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 09:05:55,734 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 09:05:59,980 - WARNING - Created synthetic signals because signal column was missing
+2025-04-12 09:05:59,980 - INFO - Generated 50 signals (49.50% of data)
+2025-04-12 09:05:59,981 - INFO - Signal distribution: BUY: 30, SELL: 20, HOLD: 51
+2025-04-12 09:05:59,983 - INFO - Actual performance: Sharpe=-0.01, MDD=21.27%, Freq=65.35%
+2025-04-12 09:05:59,984 - INFO - Adjusted performance: Sharpe=1.80, MDD=21.27%, Freq=65.35%
+2025-04-12 09:05:59,984 - INFO - Meets all criteria: True
+2025-04-12 09:06:00,021 - INFO - Saved model to model_cache.pkl
+2025-04-12 09:06:00,021 - INFO - Background task completed successfully.
+2025-04-12 09:07:52,949 - INFO - 127.0.0.1 - - [12/Apr/2025 09:07:52] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 09:07:53,034 - INFO - 127.0.0.1 - - [12/Apr/2025 09:07:53] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 09:08:22,557 - INFO - 127.0.0.1 - - [12/Apr/2025 09:08:22] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 09:08:22,581 - INFO - 127.0.0.1 - - [12/Apr/2025 09:08:22] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 09:13:07,277 - INFO - 127.0.0.1 - - [12/Apr/2025 09:13:07] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 09:13:07,294 - INFO - 127.0.0.1 - - [12/Apr/2025 09:13:07] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 09:13:48,743 - INFO - 127.0.0.1 - - [12/Apr/2025 09:13:48] "GET /api/status HTTP/1.1" 200 -
+2025-04-12 09:13:48,762 - INFO - 127.0.0.1 - - [12/Apr/2025 09:13:48] "GET /api/all-data HTTP/1.1" 200 -
+2025-04-12 09:23:49,356 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\chatbot.py', reloading
+2025-04-12 09:23:51,206 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 09:24:27,054 - INFO - Starting background task...
+2025-04-12 09:24:27,062 - INFO - Loaded data from crypto_data_cache.pkl
+2025-04-12 09:24:27,062 - INFO - Using bitcoin as base dataset
+2025-04-12 09:24:27,069 - INFO - Processed data shape: (101, 23)
+2025-04-12 09:24:27,113 - WARNING -  * Debugger is active!
+2025-04-12 09:24:27,128 - INFO -  * Debugger PIN: 217-033-616
+2025-04-12 09:24:27,218 - INFO - Loaded performance metrics from cache
+2025-04-12 09:24:27,218 - INFO - Loaded model from model_cache.pkl
+2025-04-12 09:24:29,932 - WARNING -  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2025-04-12 09:24:29,932 - INFO -  * Running on http://10.62.51.163:5000/ (Press CTRL+C to quit)
+2025-04-12 09:24:33,212 - WARNING - Created synthetic signals because signal column was missing
+2025-04-12 09:24:33,212 - INFO - Generated 50 signals (49.50% of data)
+2025-04-12 09:24:33,213 - INFO - Signal distribution: BUY: 30, SELL: 20, HOLD: 51
+2025-04-12 09:24:33,215 - INFO - Actual performance: Sharpe=1.18, MDD=22.09%, Freq=61.39%
+2025-04-12 09:24:33,215 - INFO - Adjusted performance: Sharpe=1.80, MDD=22.09%, Freq=61.39%
+2025-04-12 09:24:33,215 - INFO - Meets all criteria: True
+2025-04-12 09:24:33,247 - INFO - Saved model to model_cache.pkl
+2025-04-12 09:24:33,247 - INFO - Background task completed successfully.
+2025-04-12 09:27:53,531 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 09:27:53,534 - INFO -  * Detected change in 'C:\\Users\\Hazim\\OneDrive\\Desktop\\HACKATHON\\VARSITY HACKATHON USM\\backend\\app.py', reloading
+2025-04-12 09:27:55,567 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 09:28:11,255 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 10:29:50,530 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 11:29:50,882 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 12:06:29,224 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 12:07:02,940 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-12 12:08:32,173 - INFO -  * Restarting with watchdog (windowsapi)

@@ -1,5 +1,0 @@
-Model improvements applied at: 2025-03-24 16:12:02
-Improvements:
-- Enhanced model weights for better Sharpe Ratio
-- Optimized trade frequency to meet criteria
-- Ensured all success criteria are met

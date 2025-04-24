@@ -1,0 +1,1 @@
+{"selected_features": ["ma7", "ma20", "price_volatility", "price_change_1h", "price_change_24h", "volume_change", "rsi", "bb_position", "macd", "macd_hist", "atr_volatility", "ma20_slope", "ma_ratio_20_50", "ma_cross_7_20", "ma_cross_20_50"], "regime_labels": {"0": "Bearish", "1": "Neutral", "2": "Bullish"}}

@@ -152,52 +152,35 @@ class TradingProvider with ChangeNotifier {
     
     try {
       // Check server status
-      final status = await apiService.getStatus();
-      bool dataAvailable = status['data_available'] ?? false;
-      bool signalsAvailable = status['signals_available'] ?? false;
-      
-      // Start processing if data isn't available
-      if (!dataAvailable || !signalsAvailable) {
-        await apiService.startProcess();
-        
-        // Poll status until processing is complete or timeout
-        bool isProcessing = true;
-        int attempts = 0;
-        const maxAttempts = 30; // 60 seconds timeout
-        
-        while (isProcessing && attempts < maxAttempts) {
-          await Future.delayed(const Duration(seconds: 2));
-          
-          final newStatus = await apiService.getStatus();
-          isProcessing = newStatus['task_running'] ?? false;
-          
-          // If data becomes available, break early
-          if ((newStatus['data_available'] ?? false) && 
-              (newStatus['signals_available'] ?? false)) {
-            break;
-          }
-          
-          attempts++;
+        final allData = await apiService.getAllData();
+    
+    // Update state with new data
+    _priceData = allData['priceData'];
+    _signals = allData['signals'];
+    _performance = allData['performance'];
+    
+    // Add extra debugging for regimes data
+    if (allData['regimes'] != null) {
+      print("Regimes data found: ${allData['regimes']}");
+      _regimes = allData['regimes'];
+    } else {
+      print("No regimes data returned from API");
+      // Initialize with empty structure to avoid null errors
+      _regimes = {
+        'regime_data': [],
+        'regime_counts': {},
+        'regime_labels': {
+          '0': 'Neutral',
+          '1': 'Bullish',
+          '2': 'Bearish'
         }
-        
-        // Check if we timed out
-        if (attempts >= maxAttempts) {
-          throw Exception('Timed out waiting for data processing');
-        }
-      }
-      
-      // Fetch all data
-      final allData = await apiService.getAllData();
-      
-      // Update state with new data
-      _priceData = allData['priceData'];
-      _signals = allData['signals'];
-      _performance = allData['performance'];
-      _regimes = allData['regimes'] ?? {};
-      _metrics = allData['metrics'] ?? {};
-      
-      // Save to cache
-      await _saveCachedData();
+      };
+    }
+    
+    _metrics = allData['metrics'] ?? {};
+    
+    // Save to cache
+    await _saveCachedData();
       
       // Check for important signals
       _checkForSignalNotifications();
@@ -238,15 +221,22 @@ class TradingProvider with ChangeNotifier {
   }
   
   // Get active signals (BUY or SELL only)
-  List<SignalData> getActiveSignals() {
-    return _signals.where((s) => s.signal == 'BUY' || s.signal == 'SELL').toList();
-  }
+ List<SignalData> getActiveSignals() {
+  final activeSignals = _signals.where((s) => s.signal == 'BUY' || s.signal == 'SELL').toList();
+  
+  // Sort signals by timestamp (newest first)
+  activeSignals.sort((a, b) => b.timestamp.compareTo(a.timestamp));
+  
+  return activeSignals;
+}
   
   // Get recent signals (last 7 days)
   List<SignalData> getRecentSignals() {
-    final now = DateTime.now();
-    return getActiveSignals()
-        .where((s) => now.difference(s.timestamp).inDays <= 7)
-        .toList();
-  }
+  final now = DateTime.now();
+  final recentSignals = getActiveSignals()
+      .where((s) => now.difference(s.timestamp).inDays <= 7)
+      .toList();
+  
+  return recentSignals; // Already sorted from getActiveSignals()
+}
 }
